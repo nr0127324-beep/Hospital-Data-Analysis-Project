@@ -1,0 +1,1001 @@
+Patient_ID,Name,Age,Gender,Department,Admission_Date,Discharge_Date,Diagnosis,Treatment_Cost,Doctor,Stay_Days,Payment_Mode,Satisfaction
+P10001,Priya Singh,83,Female,Cardiology,2024-03-06,2024-03-18,Arthritis,38036,Dr. Neha Singh,12,Cash,1.0
+P10002,Manoj Gupta,76,Female,Pediatrics,2025-07-18,2025-07-29,Skin Allergy,19634,Dr. Priya Sharma,11,Insurance,3.0
+P10003,Vikram Naidu,37,Female,Cardiology,2025-04-22,2025-04-30,Diabetes,22738,Dr. Anil Kumar,8,Cash,1.0
+P10004,Neha Kumar,66,Male,Neurology,2024-11-16,2024-11-29,Skin Allergy,40317,Dr. S. Reddy,13,Credit Card,2.0
+P10005,Divya Sharma,3,Male,General Medicine,2024-11-12,2024-11-14,Diabetes,1651,Dr. Priya Sharma,2,Insurance,3.0
+P10006,Ananya Joshi,50,Female,Pediatrics,2025-09-18,2025-10-01,Skin Allergy,21168,Dr. Neha Singh,13,Credit Card,1.0
+P10007,Vikram Gupta,5,Male,ENT,2024-03-03,2024-03-15,Anemia,13323,Dr. Priya Sharma,12,UPI,2.0
+P10008,Isha Reddy,65,Male,Orthopedics,2025-05-24,2025-06-01,Diabetes,21338,Dr. S. Reddy,8,Insurance,2.0
+P10009,Vikram Reddy,87,Female,Dermatology,2024-05-27,2024-06-07,Gastritis,10669,Dr. S. Reddy,11,Insurance,5.0
+P10010,Aarav Gupta,61,Male,Pediatrics,2024-03-09,2024-03-17,Diabetes,11154,Dr. Anil Kumar,8,Insurance,5.0
+P10011,Aarav Sharma,75,Female,General Medicine,2025-01-19,2025-01-23,Viral Fever,6550,Dr. Anil Kumar,4,Insurance,1.0
+P10012,Kavya Iyer,21,Female,General Medicine,2025-12-13,2025-12-25,Heart Disease,17267,Dr. Rahul Verma,12,Insurance,4.0
+P10013,Rohan Nair,89,Male,Pediatrics,2025-06-21,2025-06-25,Fracture,6201,Dr. Priya Sharma,4,Credit Card,4.0
+P10014,Kavya Patel,50,Female,ENT,2025-07-09,2025-07-14,Fracture,5276,Dr. Anil Kumar,5,Insurance,2.0
+P10015,Rahul Verma,61,Male,Orthopedics,2025-06-07,2025-06-15,Asthma,25522,Dr. S. Reddy,8,UPI,3.0
+P10016,Sanjay Sharma,69,Female,Neurology,2025-07-27,2025-08-08,Pneumonia,37343,Dr. S. Reddy,12,UPI,4.0
+P10017,Sai Rao,57,Female,General Medicine,2025-01-09,2025-01-15,Hypertension,7798,Dr. Meera Rao,6,Debit Card,2.0
+P10018,Kiran Mishra,29,Male,Oncology,2024-04-03,2024-04-10,Asthma,35732,Dr. Neha Singh,7,Credit Card,1.0
+P10019,Rahul Verma,55,Male,Cardiology,2025-09-05,2025-09-06,Migraine,12150,Dr. S. Reddy,1,Insurance,2.0
+P10020,Meera Mishra,59,Male,Pediatrics,2024-11-24,2024-11-26,Diabetes,1500,Dr. Kavitha Naidu,2,Insurance,2.0
+P10021,Diya Patel,77,Male,ENT,2024-12-31,2025-01-01,Migraine,2493,Dr. Arjun Patel,1,Insurance,2.0
+P10022,Aditya Rao,43,Male,Dermatology,2024-09-27,2024-09-29,Hypertension,1500,Dr. Anil Kumar,2,Debit Card,2.0
+P10023,Neha Gupta,45,Female,ENT,2024-05-13,2024-05-26,Skin Allergy,15965,Dr. Rahul Verma,13,Debit Card,1.0
+P10024,Diya Gupta,45,Male,General Medicine,2025-11-07,2025-11-19,Heart Disease,19887,Dr. Meera Rao,12,Cash,5.0
+P10025,Vikram Yadav,11,Female,General Medicine,2025-07-24,2025-08-05,Pneumonia,17757,Dr. Rahul Verma,12,Insurance,
+P10026,Arjun Kumar,9,Male,Orthopedics,2025-04-15,2025-04-16,Skin Allergy,3468,Dr. Priya Sharma,1,Cash,4.0
+P10027,Sai Joshi,2,Female,ENT,2024-10-20,2024-10-22,Asthma,1500,Dr. Meera Rao,2,Insurance,4.0
+P10028,Isha Joshi,60,Male,Orthopedics,2025-08-23,2025-08-27,Skin Allergy,11321,Dr. Anil Kumar,4,Debit Card,4.0
+P10029,Kavya Verma,38,Male,Dermatology,2025-02-02,2025-02-10,Fracture,7647,Dr. Neha Singh,8,Insurance,5.0
+P10030,Rohan Singh,78,Female,Pediatrics,2024-11-19,2024-11-24,Migraine,6239,Dr. Rahul Verma,5,Cash,1.0
+P10031,Aditya Gupta,63,Male,General Medicine,2024-11-24,2024-12-01,Gastritis,9231,Dr. Anil Kumar,7,Cash,2.0
+P10032,Rohan Rao,13,Female,Dermatology,2024-06-14,2024-06-17,Fracture,3277,Dr. Rahul Verma,3,Insurance,1.0
+P10033,Aarav Nair,9,Male,General Medicine,2024-03-08,2024-03-19,Anemia,13896,Dr. Neha Singh,11,Cash,3.0
+P10034,Divya Gupta,33,Female,ENT,2025-02-08,2025-02-13,Asthma,4645,Dr. Kavitha Naidu,5,UPI,4.0
+P10035,Meera Mishra,82,Female,Pediatrics,2025-10-10,2025-10-11,Pneumonia,1500,Dr. S. Reddy,1,Insurance,5.0
+P10036,Meera Das,5,Female,General Medicine,2024-02-16,2024-02-27,Asthma,16165,Dr. Neha Singh,11,Credit Card,2.0
+P10037,Diya Gupta,17,Male,Orthopedics,2025-09-18,2025-10-01,Anemia,38537,Dr. Priya Sharma,13,Cash,2.0
+P10038,Meera Iyer,3,Male,Pediatrics,2025-08-27,2025-08-28,Hypertension,2118,Dr. Priya Sharma,1,Insurance,5.0
+P10039,Kavya Gupta,37,Male,Pediatrics,2024-07-21,2024-07-28,Anemia,13361,Dr. Priya Sharma,7,Insurance,4.0
+P10040,Vivaan Mishra,89,Male,Cardiology,2025-04-06,2025-04-18,Anemia,43642,Dr. Neha Singh,12,Insurance,4.0
+P10041,Pooja Sharma,61,Male,Cardiology,2024-04-30,2024-05-10,Anemia,37975,Dr. Kavitha Naidu,10,Insurance,3.0
+P10042,Rohan Yadav,44,Female,General Medicine,2025-07-07,2025-07-19,Heart Disease,17395,Dr. Rahul Verma,12,Cash,3.0
+P10043,Kiran Joshi,13,Female,General Medicine,2025-05-26,2025-06-01,Anemia,8220,Dr. Kavitha Naidu,6,UPI,2.0
+P10044,Manoj Joshi,32,Female,General Medicine,2024-09-15,2024-09-21,Viral Fever,7359,Dr. S. Reddy,6,UPI,4.0
+P10045,Aarav Gupta,47,Male,Cardiology,2024-02-19,2024-02-29,Asthma,47159,Dr. Anil Kumar,10,Debit Card,
+P10046,Priya Joshi,25,Male,Orthopedics,2025-12-09,2025-12-12,Pneumonia,6628,Dr. Arjun Patel,3,Cash,5.0
+P10047,Sai Rao,63,Male,Neurology,2024-11-21,2024-11-25,Anemia,9816,Dr. Neha Singh,4,UPI,1.0
+P10048,Arjun Nair,88,Male,Dermatology,2025-10-13,2025-10-22,Pneumonia,9607,Dr. Anil Kumar,9,Credit Card,3.0
+P10049,Vikram Sharma,19,Male,ENT,2025-05-09,2025-05-19,Viral Fever,12423,Dr. Anil Kumar,10,Insurance,2.0
+P10050,Sai Rao,23,Male,Orthopedics,2025-07-22,2025-07-24,Diabetes,1500,Dr. Rahul Verma,2,Insurance,4.0
+P10051,Pooja Naidu,12,Male,General Medicine,2025-07-08,2025-07-16,Migraine,13400,Dr. Anil Kumar,8,Cash,4.0
+P10052,Rohan Rao,65,Female,Cardiology,2024-05-22,2024-05-28,Migraine,21125,Dr. Kavitha Naidu,6,UPI,5.0
+P10053,Priya Singh,42,Male,Orthopedics,2024-09-22,2024-09-30,Asthma,18045,Dr. Neha Singh,8,Cash,4.0
+P10054,Aditya Joshi,26,Male,Cardiology,2024-12-06,2024-12-20,Viral Fever,56391,Dr. S. Reddy,14,Insurance,2.0
+P10055,Diya Patel,20,Male,Orthopedics,2024-12-29,2024-12-31,Gastritis,8052,Dr. S. Reddy,2,Debit Card,2.0
+P10056,Rahul Nair,7,Male,General Medicine,2024-02-01,2024-02-15,Asthma,17121,Dr. Arjun Patel,14,Insurance,5.0
+P10057,Arjun Kumar,43,Female,ENT,2025-02-02,2025-02-09,Diabetes,11385,Dr. S. Reddy,7,Debit Card,3.0
+P10058,Aarav Nair,61,Male,Neurology,2024-04-22,2024-05-03,Viral Fever,38151,Dr. Priya Sharma,11,UPI,1.0
+P10059,Kavya Nair,21,Female,General Medicine,2025-06-26,2025-07-02,Hypertension,8380,Dr. Anil Kumar,6,UPI,5.0
+P10060,Kavya Naidu,1,Male,Dermatology,2025-05-13,2025-05-18,Skin Allergy,7226,Dr. Arjun Patel,5,UPI,4.0
+P10061,Priya Iyer,43,Male,ENT,2025-11-04,2025-11-15,Anemia,13467,Dr. Neha Singh,11,Insurance,1.0
+P10062,Ananya Mishra,61,Female,General Medicine,2025-06-27,2025-07-07,Fracture,13944,Dr. Anil Kumar,10,Credit Card,4.0
+P10063,Pooja Joshi,31,Male,Orthopedics,2024-09-24,2024-09-27,Migraine,5811,Dr. Arjun Patel,3,UPI,4.0
+P10064,Vikram Singh,23,Female,General Medicine,2025-12-07,2025-12-17,Hypertension,15140,Dr. Priya Sharma,10,UPI,4.0
+P10065,Aditya Gupta,14,Male,Orthopedics,2024-10-26,2024-11-06,Pneumonia,32668,Dr. Priya Sharma,11,Insurance,5.0
+P10066,Rahul Nair,67,Female,ENT,2024-08-25,2024-08-31,Hypertension,7224,Dr. Meera Rao,6,Insurance,3.0
+P10067,Ananya Rao,77,Male,Pediatrics,2025-10-23,2025-11-05,Heart Disease,19030,Dr. Meera Rao,13,Insurance,3.0
+P10068,Diya Joshi,69,Male,Dermatology,2024-09-27,2024-10-06,Diabetes,9181,Dr. Arjun Patel,9,Cash,4.0
+P10069,Vivaan Rao,47,Female,Cardiology,2024-02-25,2024-03-01,Arthritis,17648,Dr. Kavitha Naidu,5,Credit Card,1.0
+P10070,Sai Joshi,65,Male,Pediatrics,2024-12-08,2024-12-09,Viral Fever,1500,Dr. Priya Sharma,1,UPI,1.0
+P10071,Isha Kumar,36,Male,ENT,2025-08-03,2025-08-13,Fracture,9527,Dr. Rahul Verma,10,UPI,5.0
+P10072,Rohan Reddy,3,Female,General Medicine,2024-05-18,2024-05-21,Anemia,5307,Dr. Neha Singh,3,Credit Card,2.0
+P10073,Isha Yadav,33,Female,Pediatrics,2024-12-03,2024-12-14,Diabetes,11771,Dr. Kavitha Naidu,11,Insurance,3.0
+P10074,Priya Mishra,63,Female,ENT,2024-04-04,2024-04-12,Skin Allergy,9945,Dr. Priya Sharma,8,Cash,2.0
+P10075,Rahul Mishra,58,Female,Oncology,2025-05-16,2025-05-23,Gastritis,31653,Dr. Priya Sharma,7,Insurance,2.0
+P10076,Kiran Yadav,89,Female,Orthopedics,2024-12-13,2024-12-16,Arthritis,13528,Dr. Meera Rao,3,Insurance,3.0
+P10077,Sai Naidu,89,Female,General Medicine,2024-08-29,2024-09-08,Skin Allergy,13032,Dr. Meera Rao,10,Insurance,5.0
+P10078,Neha Rao,22,Female,Pediatrics,2024-06-14,2024-06-17,Pneumonia,6277,Dr. S. Reddy,3,Insurance,3.0
+P10079,Rohan Kumar,1,Male,General Medicine,2025-02-16,2025-02-22,Migraine,7622,Dr. Anil Kumar,6,Insurance,1.0
+P10080,Aarav Gupta,25,Male,Orthopedics,2025-05-03,2025-05-15,Diabetes,34045,Dr. Anil Kumar,12,Credit Card,2.0
+P10081,Vikram Patel,78,Female,Orthopedics,2025-11-17,2025-11-30,Heart Disease,39288,Dr. Rahul Verma,13,Insurance,1.0
+P10082,Diya Yadav,73,Female,ENT,2024-11-15,2024-11-29,Pneumonia,16022,Dr. Neha Singh,14,Insurance,5.0
+P10083,Manoj Reddy,9,Male,ENT,2024-04-27,2024-05-11,Anemia,18474,Dr. Rahul Verma,14,Insurance,
+P10084,Meera Sharma,15,Male,Oncology,2025-08-30,2025-09-07,Migraine,33044,Dr. Meera Rao,8,Credit Card,2.0
+P10085,Sai Patel,51,Male,ENT,2025-04-04,2025-04-07,Heart Disease,4094,Dr. Neha Singh,3,Credit Card,1.0
+P10086,Kavya Sharma,59,Male,Dermatology,2025-05-26,2025-06-07,Skin Allergy,13291,Dr. Kavitha Naidu,12,Insurance,3.0
+P10087,Rohan Patel,88,Female,Dermatology,2024-03-11,2024-03-23,Migraine,12924,Dr. Kavitha Naidu,12,Insurance,5.0
+P10088,Ananya Das,68,Male,Dermatology,2024-08-16,2024-08-30,Asthma,16683,Dr. Rahul Verma,14,Debit Card,3.0
+P10089,Ananya Rao,19,Female,Pediatrics,2025-07-14,2025-07-24,Anemia,14289,Dr. Arjun Patel,10,Credit Card,4.0
+P10090,Meera Das,4,Female,Pediatrics,2025-08-30,2025-09-01,Fracture,1500,Dr. Rahul Verma,2,Credit Card,1.0
+P10091,Aarav Mishra,57,Female,Orthopedics,2024-11-13,2024-11-21,Hypertension,18502,Dr. Rahul Verma,8,Cash,1.0
+P10092,Divya Das,50,Male,General Medicine,2025-08-10,2025-08-17,Migraine,11094,Dr. Rahul Verma,7,UPI,4.0
+P10093,Priya Iyer,83,Female,Orthopedics,2025-09-06,2025-09-18,Arthritis,35551,Dr. Arjun Patel,12,UPI,1.0
+P10094,Diya Singh,52,Female,Orthopedics,2024-10-09,2024-10-15,Diabetes,17200,Dr. Neha Singh,6,Cash,3.0
+P10095,Ananya Sharma,45,Female,General Medicine,2025-10-17,2025-10-22,Pneumonia,4799,Dr. S. Reddy,5,UPI,2.0
+P10096,Sanjay Rao,28,Male,Pediatrics,2024-07-29,2024-07-31,Heart Disease,4917,Dr. Kavitha Naidu,2,Insurance,1.0
+P10097,Rohan Yadav,8,Male,Neurology,2024-06-23,2024-07-05,Hypertension,32913,Dr. Anil Kumar,12,Credit Card,3.0
+P10098,Meera Das,78,Female,Oncology,2025-05-13,2025-05-24,Hypertension,63112,Dr. Rahul Verma,11,Cash,5.0
+P10099,Sai Rao,74,Male,ENT,2025-04-09,2025-04-10,Asthma,6000,Dr. Neha Singh,1,Insurance,1.0
+P10100,Rahul Naidu,15,Male,Neurology,2024-04-12,2024-04-19,Hypertension,24041,Dr. Kavitha Naidu,7,Debit Card,5.0
+P10101,Aditya Joshi,63,Female,Cardiology,2025-08-30,2025-09-06,Hypertension,28138,,7,UPI,3.0
+P10102,Diya Iyer,33,Female,Orthopedics,2024-05-25,2024-06-01,Fracture,17667,Dr. Rahul Verma,7,Insurance,4.0
+P10103,Kiran Verma,39,Male,Oncology,2025-08-10,2025-08-23,Diabetes,52328,Dr. S. Reddy,13,Debit Card,1.0
+P10104,Manoj Mishra,76,Male,Oncology,2024-01-06,2024-01-09,Anemia,10780,Dr. Meera Rao,3,Insurance,5.0
+P10105,Sai Iyer,75,Male,Cardiology,2025-08-04,2025-08-09,Diabetes,12491,Dr. Priya Sharma,5,Cash,1.0
+P10106,Divya Das,17,Female,Dermatology,2025-07-28,2025-07-31,Viral Fever,1500,Dr. Rahul Verma,3,UPI,5.0
+P10107,Aditya Sharma,28,Female,Cardiology,2025-07-23,2025-07-27,Gastritis,23080,Dr. Priya Sharma,4,Insurance,4.0
+P10108,Sai Kumar,74,Male,Pediatrics,2025-04-30,2025-05-13,Arthritis,21411,Dr. Meera Rao,13,Cash,2.0
+P10109,Manoj Yadav,82,Male,ENT,2024-12-10,2024-12-24,Arthritis,17437,Dr. Neha Singh,14,Credit Card,1.0
+P10110,Meera Verma,8,Male,Neurology,2025-05-29,2025-05-30,Pneumonia,1815,Dr. Arjun Patel,1,Insurance,4.0
+P10111,Manoj Naidu,75,Male,Neurology,2024-07-21,2024-07-30,Skin Allergy,28025,Dr. Meera Rao,9,Cash,1.0
+P10112,Isha Verma,44,Female,Pediatrics,2025-07-23,2025-07-27,Hypertension,8560,Dr. Neha Singh,4,Insurance,4.0
+P10113,Kiran Reddy,53,Male,General Medicine,2025-02-09,2025-02-12,Diabetes,4136,Dr. Anil Kumar,3,Credit Card,4.0
+P10114,Priya Joshi,7,Male,ENT,2024-12-01,2024-12-06,Skin Allergy,6891,Dr. Neha Singh,5,Insurance,2.0
+P10115,Vivaan Patel,61,Male,ENT,2025-01-04,2025-01-07,Hypertension,3270,Dr. S. Reddy,3,Insurance,2.0
+P10116,Rohan Joshi,61,Male,Cardiology,2025-02-19,2025-02-26,Fracture,23475,Dr. Arjun Patel,7,UPI,2.0
+P10117,Meera Verma,59,Female,Cardiology,2024-01-28,2024-02-11,Fracture,43309,Dr. Neha Singh,14,Insurance,2.0
+P10118,Kavya Rao,71,Female,Oncology,2024-04-12,2024-04-21,Hypertension,31155,Dr. Rahul Verma,9,Cash,1.0
+P10119,Rahul Reddy,85,Female,Orthopedics,2024-06-28,2024-07-09,Diabetes,29774,Dr. Rahul Verma,11,UPI,2.0
+P10120,Aditya Joshi,76,Male,ENT,2024-03-24,2024-03-31,Viral Fever,8494,Dr. Kavitha Naidu,7,UPI,4.0
+P10121,Neha Sharma,67,Female,General Medicine,2024-11-16,2024-11-17,Arthritis,1500,Dr. Priya Sharma,1,Insurance,2.0
+P10122,Diya Reddy,88,Male,Cardiology,2025-05-02,2025-05-04,Hypertension,7026,Dr. Priya Sharma,2,UPI,4.0
+P10123,Neha Nair,61,Female,Oncology,2025-04-22,2025-04-26,Heart Disease,20376,Dr. S. Reddy,4,UPI,5.0
+P10124,Rohan Singh,60,Female,Neurology,2024-12-09,2024-12-13,Diabetes,3141,Dr. Meera Rao,4,Insurance,4.0
+P10125,Sai Singh,49,Male,Pediatrics,2025-09-16,2025-09-28,Gastritis,17150,Dr. Kavitha Naidu,12,UPI,3.0
+P10126,Rohan Patel,69,Female,General Medicine,2025-02-16,2025-02-28,Anemia,17598,Dr. S. Reddy,12,UPI,2.0
+P10127,Diya Joshi,7,Male,General Medicine,2024-02-27,2024-03-10,Viral Fever,17558,Dr. Rahul Verma,12,Credit Card,5.0
+P10128,Manoj Rao,46,Female,Dermatology,2025-07-12,2025-07-21,Asthma,7384,Dr. Anil Kumar,9,Cash,2.0
+P10129,Divya Patel,38,Male,General Medicine,2025-02-23,2025-03-03,Diabetes,11510,Dr. Anil Kumar,8,UPI,3.0
+P10130,Divya Rao,82,Male,ENT,2025-04-08,2025-04-18,Fracture,13717,Dr. Neha Singh,10,Debit Card,3.0
+P10131,Meera Patel,7,Male,ENT,2025-02-16,2025-02-22,Skin Allergy,8505,Dr. Arjun Patel,6,Credit Card,4.0
+P10132,Manoj Rao,58,Male,General Medicine,2025-02-08,2025-02-18,Pneumonia,13813,Dr. Arjun Patel,10,UPI,3.0
+P10133,Pooja Kumar,17,Male,Cardiology,2024-03-07,2024-03-19,Hypertension,40841,Dr. S. Reddy,12,UPI,4.0
+P10134,Meera Sharma,79,Male,Dermatology,2025-02-12,2025-02-23,Gastritis,10118,Dr. Rahul Verma,11,UPI,5.0
+P10135,Pooja Naidu,76,Female,ENT,2025-08-03,2025-08-12,Gastritis,11585,Dr. Kavitha Naidu,9,Debit Card,2.0
+P10136,Neha Mishra,21,Male,Orthopedics,2024-08-09,2024-08-10,Hypertension,3564,Dr. S. Reddy,1,Insurance,5.0
+P10137,Meera Reddy,78,Male,Pediatrics,2025-03-16,2025-03-27,Hypertension,19009,Dr. Kavitha Naidu,11,Insurance,1.0
+P10138,Sai Patel,45,Female,Pediatrics,2024-01-23,2024-01-29,Diabetes,9895,Dr. Kavitha Naidu,6,Credit Card,5.0
+P10139,Divya Mishra,87,Female,Cardiology,2024-09-10,2024-09-21,Hypertension,43726,Dr. Meera Rao,11,Cash,1.0
+P10140,Isha Mishra,65,Male,General Medicine,2024-11-14,2024-11-22,Arthritis,11385,Dr. Meera Rao,8,Credit Card,5.0
+P10141,Sai Iyer,4,Male,Orthopedics,2025-12-18,2025-12-31,Diabetes,39475,Dr. S. Reddy,13,UPI,2.0
+P10142,Ananya Patel,19,Female,Oncology,2024-06-05,2024-06-10,Arthritis,31095,Dr. Arjun Patel,5,Debit Card,5.0
+P10143,Rohan Naidu,36,Female,Oncology,2024-07-20,2024-08-03,Fracture,64368,Dr. Neha Singh,14,Cash,1.0
+P10144,Kiran Patel,19,Male,Oncology,2024-10-25,2024-11-06,Heart Disease,47342,Dr. Neha Singh,12,,3.0
+P10145,Kiran Kumar,12,Female,Pediatrics,2025-12-25,2025-12-30,Gastritis,11457,Dr. Arjun Patel,5,Insurance,5.0
+P10146,Vikram Singh,88,Male,Orthopedics,2025-09-14,2025-09-21,Pneumonia,20606,Dr. S. Reddy,7,Cash,1.0
+P10147,Aditya Verma,78,Male,Dermatology,2024-01-26,2024-02-03,Asthma,5599,Dr. Arjun Patel,8,Insurance,2.0
+P10148,Pooja Singh,39,Female,Oncology,2024-06-19,2024-06-30,Hypertension,50003,Dr. Priya Sharma,11,Cash,1.0
+P10149,Sanjay Das,20,Female,Pediatrics,2025-08-22,2025-09-01,Hypertension,17728,Dr. Neha Singh,10,Cash,2.0
+P10150,Rahul Rao,17,Female,ENT,2024-02-12,2024-02-24,Viral Fever,13930,Dr. S. Reddy,12,UPI,2.0
+P10151,Aarav Singh,82,Male,Neurology,2025-09-16,2025-09-22,Hypertension,16905,Dr. Meera Rao,6,Credit Card,4.0
+P10152,Divya Nair,30,Male,ENT,2024-07-24,2024-08-01,Arthritis,11953,Dr. Anil Kumar,8,Cash,2.0
+P10153,Manoj Mishra,2,Male,Cardiology,2025-10-31,2025-11-07,Pneumonia,19921,Dr. Anil Kumar,7,Insurance,1.0
+P10154,Ananya Rao,36,Male,Neurology,2024-08-02,2024-08-15,Diabetes,38024,Dr. Meera Rao,13,Insurance,1.0
+P10155,Divya Verma,41,Male,General Medicine,2024-11-13,2024-11-18,Viral Fever,7414,Dr. Rahul Verma,5,Debit Card,5.0
+P10156,Rohan Rao,56,Male,Cardiology,2025-04-28,2025-05-07,Viral Fever,34367,Dr. Anil Kumar,9,Debit Card,5.0
+P10157,Pooja Reddy,31,Female,Cardiology,2024-04-02,2024-04-04,Gastritis,9701,Dr. Arjun Patel,2,Insurance,2.0
+P10158,Vivaan Nair,83,Female,Cardiology,2025-02-10,2025-02-22,Fracture,47792,Dr. Anil Kumar,12,Insurance,1.0
+P10159,Aarav Sharma,58,Male,Pediatrics,2025-01-03,2025-01-09,Viral Fever,10044,Dr. Neha Singh,6,Cash,1.0
+P10160,Vikram Naidu,88,Male,Dermatology,2025-07-26,2025-07-31,Skin Allergy,5685,Dr. S. Reddy,5,UPI,5.0
+P10161,Rahul Gupta,33,Female,Cardiology,2025-12-28,2026-01-06,Migraine,31093,Dr. Meera Rao,9,Cash,4.0
+P10162,Vivaan Sharma,59,Male,General Medicine,2025-04-29,2025-05-06,Skin Allergy,9922,Dr. Priya Sharma,7,Insurance,4.0
+P10163,Manoj Kumar,33,Female,Oncology,2024-10-25,2024-11-06,Gastritis,60752,Dr. Arjun Patel,12,Cash,2.0
+P10164,Priya Singh,63,Male,Neurology,2024-10-23,2024-10-31,Asthma,26563,Dr. Kavitha Naidu,8,Insurance,4.0
+P10165,Ananya Yadav,67,Female,Neurology,2024-11-01,2024-11-09,Skin Allergy,29060,Dr. Anil Kumar,8,Insurance,1.0
+P10166,Kavya Das,29,Female,ENT,2025-08-17,2025-08-19,Heart Disease,3332,Dr. Anil Kumar,2,Insurance,4.0
+P10167,Ananya Singh,84,Female,Oncology,2024-08-22,2024-08-23,Fracture,5309,Dr. Rahul Verma,1,Credit Card,3.0
+P10168,Neha Reddy,77,Female,General Medicine,2024-05-01,2024-05-07,Heart Disease,6814,Dr. Arjun Patel,6,Cash,2.0
+P10169,Sai Das,80,Female,Oncology,2024-09-01,2024-09-15,Hypertension,70473,Dr. Anil Kumar,14,Insurance,4.0
+P10170,Kavya Kumar,20,Male,Cardiology,2024-01-17,2024-01-30,Diabetes,46658,Dr. Priya Sharma,13,Cash,
+P10171,Manoj Verma,64,Female,Pediatrics,2024-03-18,2024-03-27,Hypertension,14832,Dr. Rahul Verma,9,Cash,3.0
+P10172,Sai Nair,10,Female,Dermatology,2024-03-06,2024-03-15,Pneumonia,12089,Dr. Anil Kumar,9,UPI,1.0
+P10173,Vikram Naidu,10,Female,Orthopedics,2025-07-17,2025-07-23,Heart Disease,14746,Dr. S. Reddy,6,Debit Card,1.0
+P10174,Rohan Rao,87,Male,Dermatology,2025-06-11,2025-06-14,Arthritis,3591,Dr. Anil Kumar,3,Insurance,5.0
+P10175,Priya Reddy,14,Male,General Medicine,2025-05-23,2025-05-24,Arthritis,3494,Dr. Meera Rao,1,UPI,2.0
+P10176,Isha Reddy,77,Female,Dermatology,2024-12-03,2024-12-08,Diabetes,5137,Dr. Kavitha Naidu,5,UPI,2.0
+P10177,Aarav Naidu,39,Female,Pediatrics,2025-06-07,2025-06-12,Viral Fever,13236,Dr. Meera Rao,5,UPI,4.0
+P10178,Rahul Mishra,28,Male,Orthopedics,2024-04-27,2024-04-30,Pneumonia,6918,Dr. S. Reddy,3,Cash,2.0
+P10179,Vivaan Patel,7,Male,Neurology,2025-10-19,2025-10-23,Asthma,14251,Dr. Meera Rao,4,Cash,2.0
+P10180,Diya Verma,61,Male,Neurology,2024-12-31,2025-01-01,Migraine,1500,Dr. Rahul Verma,1,Insurance,4.0
+P10181,Vikram Iyer,65,Male,Dermatology,2025-11-15,2025-11-24,Fracture,8507,Dr. Priya Sharma,9,Debit Card,3.0
+P10182,Meera Reddy,42,Male,Cardiology,2024-04-21,2024-05-04,Heart Disease,48054,Dr. Anil Kumar,13,Credit Card,4.0
+P10183,Vivaan Sharma,73,Male,Cardiology,2024-12-29,2025-01-08,Viral Fever,40265,Dr. Priya Sharma,10,Cash,1.0
+P10184,Neha Rao,29,Male,Neurology,2025-05-23,2025-05-30,Pneumonia,23829,Dr. Neha Singh,7,Cash,3.0
+P10185,Sai Iyer,50,Female,Neurology,2024-12-27,2025-01-02,Hypertension,24840,Dr. Kavitha Naidu,6,Insurance,3.0
+P10186,Sanjay Naidu,26,Male,Oncology,2024-11-21,2024-11-26,Anemia,24335,Dr. Priya Sharma,5,Insurance,4.0
+P10187,Pooja Nair,52,Male,Pediatrics,2024-05-01,2024-05-03,Asthma,2455,Dr. S. Reddy,2,Credit Card,1.0
+P10188,Rahul Mishra,13,Male,ENT,2024-10-05,2024-10-14,Pneumonia,15342,Dr. Meera Rao,9,Cash,1.0
+P10189,Arjun Nair,43,Male,Cardiology,2024-06-23,2024-07-01,Gastritis,30786,Dr. Priya Sharma,8,UPI,4.0
+P10190,Vikram Yadav,49,Female,General Medicine,2024-08-08,2024-08-09,Diabetes,1500,Dr. Arjun Patel,1,Credit Card,4.0
+P10191,Priya Nair,50,Female,Pediatrics,2025-05-14,2025-05-20,Viral Fever,8044,Dr. Neha Singh,6,Credit Card,5.0
+P10192,Pooja Joshi,40,Male,Pediatrics,2025-04-05,2025-04-09,Skin Allergy,4288,Dr. Priya Sharma,4,UPI,2.0
+P10193,Pooja Joshi,58,Male,ENT,2025-03-19,2025-03-22,Asthma,5173,Dr. Anil Kumar,3,Insurance,5.0
+P10194,Ananya Iyer,46,Male,ENT,2024-09-21,2024-10-01,Hypertension,11387,Dr. S. Reddy,10,UPI,2.0
+P10195,Diya Joshi,26,Male,ENT,2025-12-01,2025-12-09,Fracture,9813,Dr. Rahul Verma,8,UPI,4.0
+P10196,Sanjay Yadav,20,Male,Neurology,2024-03-04,2024-03-13,Hypertension,28515,Dr. Arjun Patel,9,Insurance,1.0
+P10197,Priya Gupta,58,Male,Neurology,2024-09-07,2024-09-17,Viral Fever,35277,Dr. S. Reddy,10,Insurance,5.0
+P10198,Arjun Das,84,Male,General Medicine,2024-03-27,2024-04-10,Pneumonia,17940,Dr. S. Reddy,14,Insurance,2.0
+P10199,Priya Gupta,68,Female,Orthopedics,2024-09-04,2024-09-16,Diabetes,29383,Dr. Priya Sharma,12,Insurance,5.0
+P10200,Neha Joshi,57,Male,Dermatology,2025-12-03,2025-12-12,Gastritis,9314,Dr. Anil Kumar,9,Cash,2.0
+P10201,Aditya Naidu,83,Male,General Medicine,2024-09-24,2024-10-07,Fracture,19377,Dr. Anil Kumar,13,Insurance,4.0
+P10202,Rahul Joshi,81,Male,General Medicine,2025-10-25,2025-11-01,Pneumonia,10451,Dr. Meera Rao,7,Credit Card,3.0
+P10203,Manoj Nair,46,Male,Oncology,2024-12-27,2025-01-10,Heart Disease,64333,Dr. Rahul Verma,14,Insurance,1.0
+P10204,Pooja Yadav,10,Male,Dermatology,2025-05-25,2025-06-05,Hypertension,11948,Dr. Anil Kumar,11,Insurance,1.0
+P10205,Kavya Patel,57,Male,Cardiology,2024-11-29,2024-12-09,Fracture,32250,Dr. Priya Sharma,10,Insurance,4.0
+P10206,Priya Iyer,56,Male,Cardiology,2024-07-13,2024-07-26,Migraine,44171,Dr. Neha Singh,13,Insurance,1.0
+P10207,Aditya Nair,25,Male,General Medicine,2025-07-11,2025-07-19,Viral Fever,9349,Dr. Neha Singh,8,Debit Card,2.0
+P10208,Meera Yadav,76,Female,Pediatrics,2025-12-08,2025-12-19,Fracture,20514,Dr. Kavitha Naidu,11,Insurance,3.0
+P10209,Sai Mishra,78,Female,Orthopedics,2024-07-11,2024-07-15,Heart Disease,13683,Dr. Rahul Verma,4,Insurance,2.0
+P10210,Diya Verma,30,Male,Pediatrics,2025-07-22,2025-08-05,Hypertension,23755,Dr. Rahul Verma,14,Insurance,1.0
+P10211,Neha Verma,43,Male,Dermatology,2024-07-09,2024-07-18,Heart Disease,10746,Dr. S. Reddy,9,Cash,4.0
+P10212,Divya Sharma,18,Female,Oncology,2025-06-07,2025-06-18,Viral Fever,74688,Dr. Priya Sharma,11,Credit Card,4.0
+P10213,Rahul Yadav,16,Female,General Medicine,2025-07-29,2025-08-05,Hypertension,6449,Dr. Meera Rao,7,UPI,
+P10214,Sai Patel,24,Male,Pediatrics,2024-11-24,2024-12-07,Diabetes,19146,Dr. Kavitha Naidu,13,Cash,5.0
+P10215,Isha Iyer,33,Male,Orthopedics,2025-06-21,2025-06-23,Diabetes,3184,Dr. Kavitha Naidu,2,Credit Card,1.0
+P10216,Vikram Nair,25,Male,General Medicine,2024-07-17,2024-07-19,Migraine,1500,Dr. Kavitha Naidu,2,Cash,3.0
+P10217,Manoj Naidu,14,Female,Orthopedics,2024-02-27,2024-03-06,Migraine,18175,Dr. Rahul Verma,8,UPI,2.0
+P10218,Kavya Patel,40,Male,General Medicine,2024-03-11,2024-03-22,Arthritis,14812,Dr. Anil Kumar,11,Credit Card,5.0
+P10219,Isha Sharma,56,Male,General Medicine,2024-11-22,2024-12-04,Migraine,14415,Dr. Kavitha Naidu,12,Insurance,3.0
+P10220,Aarav Joshi,30,Male,Cardiology,2025-10-20,2025-10-27,Gastritis,26888,Dr. Neha Singh,7,UPI,1.0
+P10221,Sanjay Gupta,48,Male,Cardiology,2024-04-03,2024-04-13,Migraine,36260,Dr. Kavitha Naidu,10,UPI,4.0
+P10222,Aarav Kumar,25,Male,Neurology,2024-11-28,2024-12-06,Migraine,27755,Dr. Rahul Verma,8,Cash,1.0
+P10223,Aditya Iyer,63,Female,ENT,2025-05-28,2025-06-11,Migraine,17652,Dr. Priya Sharma,14,Debit Card,2.0
+P10224,Sai Patel,58,Male,General Medicine,2024-05-27,2024-06-06,Migraine,15181,Dr. Arjun Patel,10,UPI,4.0
+P10225,Pooja Mishra,86,Male,Neurology,2025-06-10,2025-06-16,Skin Allergy,17527,Dr. Meera Rao,6,Insurance,3.0
+P10226,Manoj Rao,5,Male,ENT,2024-08-11,2024-08-25,Fracture,20363,Dr. S. Reddy,14,UPI,4.0
+P10227,Priya Patel,76,Female,Pediatrics,2025-08-13,2025-08-15,Migraine,3725,Dr. Meera Rao,2,Credit Card,3.0
+P10228,Pooja Kumar,31,Male,Pediatrics,2025-02-26,2025-03-12,Heart Disease,18228,Dr. Anil Kumar,14,Cash,5.0
+P10229,Rahul Gupta,6,Male,ENT,2025-02-03,2025-02-06,Arthritis,1916,Dr. Neha Singh,3,Cash,3.0
+P10230,Manoj Naidu,62,Male,Cardiology,2024-05-09,2024-05-14,Fracture,9227,Dr. Kavitha Naidu,5,UPI,1.0
+P10231,Arjun Nair,16,Female,Neurology,2024-12-04,2024-12-16,Skin Allergy,38477,Dr. S. Reddy,12,Credit Card,1.0
+P10232,Kavya Naidu,16,Female,General Medicine,2025-09-17,2025-09-28,Fracture,15161,Dr. Arjun Patel,11,Cash,4.0
+P10233,Ananya Singh,88,Female,Neurology,2024-01-15,2024-01-29,Diabetes,42701,Dr. Anil Kumar,14,Insurance,1.0
+P10234,Isha Patel,20,Female,General Medicine,2025-07-07,2025-07-18,Asthma,19341,Dr. Meera Rao,11,Cash,2.0
+P10235,Rohan Rao,49,Male,Neurology,2024-12-25,2025-01-03,Gastritis,31259,Dr. Kavitha Naidu,9,UPI,1.0
+P10236,Aarav Mishra,18,Male,Cardiology,2025-06-09,2025-06-14,Fracture,21659,Dr. Anil Kumar,5,UPI,2.0
+P10237,Sai Sharma,12,Male,Neurology,2025-04-29,2025-04-30,Anemia,1500,Dr. Kavitha Naidu,1,Insurance,3.0
+P10238,Arjun Yadav,1,Female,Pediatrics,2024-11-11,2024-11-13,Diabetes,1500,Dr. Arjun Patel,2,UPI,1.0
+P10239,Isha Rao,2,Female,Neurology,2024-08-13,2024-08-18,Anemia,16164,Dr. Rahul Verma,5,UPI,3.0
+P10240,Diya Kumar,43,Male,Cardiology,2025-04-02,2025-04-03,Diabetes,4471,Dr. Priya Sharma,1,Cash,5.0
+P10241,Kiran Patel,39,Female,ENT,2024-04-12,2024-04-20,Asthma,6481,Dr. Kavitha Naidu,8,Insurance,1.0
+P10242,Sanjay Reddy,4,Male,Orthopedics,2025-03-02,2025-03-13,Arthritis,30093,Dr. S. Reddy,11,Credit Card,1.0
+P10243,Diya Nair,32,Male,Orthopedics,2024-03-10,2024-03-24,Migraine,39255,Dr. Kavitha Naidu,14,Insurance,2.0
+P10244,Sanjay Gupta,25,Male,Cardiology,2025-04-19,2025-04-26,Arthritis,24115,Dr. Kavitha Naidu,7,Insurance,5.0
+P10245,Sai Singh,51,Female,Orthopedics,2025-04-03,2025-04-16,Gastritis,33211,,13,Credit Card,3.0
+P10246,Sai Das,89,Female,Orthopedics,2024-03-02,2024-03-16,Arthritis,37085,Dr. Anil Kumar,14,UPI,4.0
+P10247,Rohan Das,62,Male,General Medicine,2025-07-06,2025-07-19,Pneumonia,17853,Dr. Anil Kumar,13,Cash,1.0
+P10248,Neha Yadav,82,Female,Neurology,2024-10-30,2024-11-06,Anemia,22806,Dr. Anil Kumar,7,UPI,4.0
+P10249,Ananya Yadav,18,Female,ENT,2025-07-28,2025-08-02,Gastritis,7016,Dr. S. Reddy,5,UPI,1.0
+P10250,Diya Iyer,20,Female,ENT,2024-01-31,2024-02-14,Migraine,18615,Dr. Anil Kumar,14,Insurance,4.0
+P10251,Neha Joshi,67,Female,Cardiology,2024-05-11,2024-05-15,Gastritis,12916,Dr. Neha Singh,4,Insurance,1.0
+P10252,Isha Nair,28,Male,Cardiology,2024-12-26,2025-01-01,Heart Disease,19300,Dr. Neha Singh,6,UPI,5.0
+P10253,Ananya Gupta,76,Female,Cardiology,2024-05-17,2024-05-19,Anemia,9405,Dr. Priya Sharma,2,UPI,2.0
+P10254,Isha Iyer,42,Female,General Medicine,2024-08-28,2024-09-09,Gastritis,17997,Dr. S. Reddy,12,Cash,1.0
+P10255,Kavya Kumar,18,Female,Cardiology,2025-04-27,2025-05-07,Anemia,33811,Dr. Kavitha Naidu,10,Credit Card,2.0
+P10256,Sanjay Nair,76,Male,Oncology,2024-04-15,2024-04-17,Anemia,15532,Dr. Kavitha Naidu,2,Credit Card,1.0
+P10257,Aditya Yadav,49,Female,Dermatology,2025-05-09,2025-05-13,Migraine,5371,Dr. Rahul Verma,4,UPI,1.0
+P10258,Neha Kumar,72,Female,Oncology,2024-03-16,2024-03-24,Gastritis,49041,Dr. Neha Singh,8,UPI,3.0
+P10259,Isha Joshi,41,Male,General Medicine,2024-05-07,2024-05-15,Fracture,14685,Dr. Kavitha Naidu,8,Insurance,2.0
+P10260,Rohan Mishra,12,Female,ENT,2025-03-04,2025-03-16,Pneumonia,12944,Dr. Kavitha Naidu,12,Insurance,2.0
+P10261,Diya Patel,61,Male,Cardiology,2025-08-02,2025-08-06,Heart Disease,14470,Dr. Rahul Verma,4,Insurance,5.0
+P10262,Ananya Gupta,12,Male,Pediatrics,2024-05-04,2024-05-17,Migraine,20825,Dr. Rahul Verma,13,Debit Card,1.0
+P10263,Neha Mishra,60,Male,Orthopedics,2024-08-06,2024-08-13,Skin Allergy,19215,Dr. S. Reddy,7,UPI,2.0
+P10264,Arjun Yadav,38,Female,ENT,2025-11-06,2025-11-18,Asthma,13309,Dr. Rahul Verma,12,UPI,1.0
+P10265,Meera Kumar,71,Female,General Medicine,2025-12-23,2025-12-27,Fracture,2688,Dr. Neha Singh,4,Insurance,3.0
+P10266,Divya Singh,78,Male,Oncology,2025-02-28,2025-03-01,Diabetes,5648,Dr. Meera Rao,1,Credit Card,2.0
+P10267,Kavya Iyer,37,Female,Neurology,2024-11-22,2024-11-23,Viral Fever,1500,Dr. Priya Sharma,1,Insurance,1.0
+P10268,Aarav Patel,79,Male,ENT,2024-09-10,2024-09-16,Asthma,7344,Dr. Rahul Verma,6,Cash,1.0
+P10269,Neha Rao,10,Male,Pediatrics,2025-03-23,2025-04-06,Viral Fever,20621,Dr. Arjun Patel,14,Insurance,5.0
+P10270,Aarav Reddy,10,Female,Pediatrics,2025-03-07,2025-03-08,Hypertension,1500,Dr. Neha Singh,1,UPI,1.0
+P10271,Sanjay Sharma,89,Female,ENT,2024-08-03,2024-08-09,Migraine,7593,Dr. Rahul Verma,6,Insurance,4.0
+P10272,Aditya Verma,52,Female,Pediatrics,2024-01-17,2024-01-19,Hypertension,3538,Dr. Arjun Patel,2,Credit Card,5.0
+P10273,Aditya Das,41,Female,Pediatrics,2024-04-20,2024-05-04,Migraine,23697,Dr. S. Reddy,14,Debit Card,3.0
+P10274,Meera Das,14,Female,General Medicine,2025-11-30,2025-12-10,Heart Disease,18284,Dr. Meera Rao,10,UPI,2.0
+P10275,Isha Nair,26,Male,Cardiology,2024-11-01,2024-11-12,Diabetes,40997,Dr. Meera Rao,11,Insurance,4.0
+P10276,Kavya Naidu,62,Male,Orthopedics,2024-12-18,2024-12-28,Gastritis,29901,Dr. S. Reddy,10,UPI,5.0
+P10277,Aarav Rao,74,Male,Neurology,2024-12-06,2024-12-16,Hypertension,27172,Dr. Kavitha Naidu,10,Credit Card,1.0
+P10278,Aditya Reddy,82,Female,Cardiology,2025-07-25,2025-08-05,Viral Fever,33113,Dr. Neha Singh,11,Cash,5.0
+P10279,Rohan Patel,37,Female,ENT,2024-02-17,2024-02-18,Heart Disease,3859,Dr. S. Reddy,1,Credit Card,5.0
+P10280,Vivaan Rao,41,Female,General Medicine,2024-03-01,2024-03-14,Pneumonia,16389,Dr. Priya Sharma,13,UPI,1.0
+P10281,Meera Sharma,15,Male,Orthopedics,2024-07-20,2024-07-31,Fracture,26707,Dr. Arjun Patel,11,Cash,1.0
+P10282,Rohan Reddy,8,Male,Pediatrics,2024-12-21,2025-01-01,Viral Fever,17512,Dr. Arjun Patel,11,Cash,4.0
+P10283,Vivaan Sharma,39,Female,Pediatrics,2025-05-04,2025-05-10,Migraine,9397,Dr. Neha Singh,6,Cash,1.0
+P10284,Isha Das,52,Female,General Medicine,2024-12-24,2025-01-05,Skin Allergy,15031,Dr. S. Reddy,12,Insurance,4.0
+P10285,Manoj Das,10,Male,ENT,2024-11-18,2024-11-24,Skin Allergy,6687,Dr. Kavitha Naidu,6,UPI,1.0
+P10286,Kavya Yadav,37,Male,ENT,2025-11-15,2025-11-16,Arthritis,3265,Dr. Kavitha Naidu,1,Insurance,4.0
+P10287,Rohan Nair,58,Male,Pediatrics,2024-04-27,2024-05-10,Arthritis,18994,Dr. Arjun Patel,13,Cash,2.0
+P10288,Divya Verma,73,Male,Orthopedics,2025-02-21,2025-02-25,Arthritis,5736,Dr. Arjun Patel,4,Cash,1.0
+P10289,Sanjay Sharma,84,Male,Pediatrics,2025-01-30,2025-02-01,Gastritis,5311,Dr. Neha Singh,2,Insurance,1.0
+P10290,Pooja Verma,31,Male,General Medicine,2024-12-11,2024-12-20,Asthma,13564,Dr. Meera Rao,9,Cash,1.0
+P10291,Sai Reddy,35,Female,Pediatrics,2025-08-12,2025-08-16,Heart Disease,5010,Dr. Anil Kumar,4,Credit Card,3.0
+P10292,Rahul Naidu,78,Male,General Medicine,2024-07-13,2024-07-26,Pneumonia,15098,Dr. Priya Sharma,13,Insurance,1.0
+P10293,Kiran Singh,62,Male,General Medicine,2025-11-27,2025-12-04,Hypertension,8340,Dr. Neha Singh,7,Insurance,5.0
+P10294,Vikram Naidu,25,Male,Orthopedics,2024-08-30,2024-08-31,Gastritis,2585,Dr. Arjun Patel,1,UPI,4.0
+P10295,Vivaan Rao,61,Female,Orthopedics,2025-02-01,2025-02-15,Arthritis,43769,Dr. Anil Kumar,14,Debit Card,2.0
+P10296,Aditya Iyer,15,Male,Orthopedics,2025-01-15,2025-01-23,Heart Disease,18336,Dr. S. Reddy,8,Cash,5.0
+P10297,Sanjay Joshi,40,Male,Cardiology,2025-09-12,2025-09-16,Pneumonia,13974,Dr. Priya Sharma,4,Insurance,4.0
+P10298,Kavya Nair,28,Male,Neurology,2024-11-16,2024-11-26,Asthma,35024,Dr. S. Reddy,10,Insurance,4.0
+P10299,Diya Das,89,Female,Dermatology,2024-07-26,2024-08-03,Viral Fever,4666,Dr. Kavitha Naidu,8,Insurance,1.0
+P10300,Aditya Verma,4,Female,Pediatrics,2024-01-16,2024-01-17,Pneumonia,3915,Dr. Rahul Verma,1,Cash,4.0
+P10301,Priya Reddy,77,Male,Neurology,2024-09-22,2024-10-03,Anemia,29902,Dr. Meera Rao,11,Debit Card,3.0
+P10302,Meera Iyer,26,Male,General Medicine,2025-08-26,2025-09-01,Asthma,9050,Dr. Meera Rao,6,UPI,5.0
+P10303,Ananya Verma,4,Male,Dermatology,2024-01-08,2024-01-18,Anemia,10345,Dr. Kavitha Naidu,10,Cash,3.0
+P10304,Rohan Rao,59,Female,Orthopedics,2025-10-16,2025-10-29,Asthma,40651,Dr. Kavitha Naidu,13,Debit Card,4.0
+P10305,Aditya Rao,61,Female,Oncology,2025-01-31,2025-02-09,Fracture,48856,Dr. Anil Kumar,9,Cash,2.0
+P10306,Sanjay Yadav,13,Male,ENT,2024-04-12,2024-04-22,Heart Disease,8006,Dr. Priya Sharma,10,Insurance,1.0
+P10307,Kavya Das,4,Male,General Medicine,2024-08-08,2024-08-12,Viral Fever,4061,Dr. S. Reddy,4,Cash,1.0
+P10308,Kavya Gupta,10,Female,General Medicine,2025-02-08,2025-02-12,Gastritis,5870,Dr. Meera Rao,4,Insurance,5.0
+P10309,Diya Das,37,Female,Cardiology,2024-08-18,2024-08-24,Arthritis,20617,Dr. Neha Singh,6,UPI,4.0
+P10310,Manoj Naidu,12,Male,ENT,2024-03-20,2024-04-01,Pneumonia,15202,Dr. Neha Singh,12,Cash,2.0
+P10311,Priya Gupta,63,Male,Pediatrics,2025-05-01,2025-05-09,Heart Disease,14568,Dr. Kavitha Naidu,8,Credit Card,4.0
+P10312,Rohan Rao,7,Male,ENT,2025-05-05,2025-05-10,Pneumonia,7022,Dr. Anil Kumar,5,Cash,1.0
+P10313,Vivaan Naidu,71,Female,General Medicine,2024-03-27,2024-04-07,Heart Disease,14980,Dr. Anil Kumar,11,UPI,1.0
+P10314,Rahul Iyer,78,Female,Cardiology,2024-07-24,2024-08-05,Asthma,33894,Dr. Meera Rao,12,Credit Card,3.0
+P10315,Vikram Reddy,64,Female,Cardiology,2024-06-27,2024-07-10,Hypertension,44504,Dr. Rahul Verma,13,Cash,4.0
+P10316,Manoj Nair,85,Female,Dermatology,2025-04-26,2025-05-01,Hypertension,5582,Dr. Kavitha Naidu,5,Insurance,5.0
+P10317,Diya Rao,84,Male,General Medicine,2025-06-17,2025-06-27,Heart Disease,11862,Dr. Priya Sharma,10,UPI,4.0
+P10318,Ananya Iyer,5,Male,Cardiology,2025-06-14,2025-06-23,Viral Fever,35581,Dr. Neha Singh,9,Cash,2.0
+P10319,Pooja Das,31,Male,Dermatology,2025-11-16,2025-11-23,Pneumonia,8271,Dr. Meera Rao,7,Insurance,5.0
+P10320,Meera Das,68,Female,Oncology,2025-07-15,2025-07-21,Anemia,30888,Dr. Rahul Verma,6,UPI,3.0
+P10321,Vivaan Das,31,Female,Pediatrics,2024-08-22,2024-08-24,Arthritis,1500,Dr. Anil Kumar,2,Insurance,5.0
+P10322,Aarav Yadav,66,Male,Pediatrics,2024-03-19,2024-03-23,Arthritis,3537,Dr. Arjun Patel,4,Insurance,1.0
+P10323,Pooja Gupta,69,Male,Cardiology,2025-03-24,2025-04-01,Gastritis,38306,Dr. Rahul Verma,8,Cash,1.0
+P10324,Ananya Iyer,89,Female,Oncology,2025-10-30,2025-11-12,Fracture,61174,Dr. Priya Sharma,13,Insurance,1.0
+P10325,Kavya Iyer,30,Female,Orthopedics,2025-12-12,2025-12-25,Diabetes,28622,Dr. S. Reddy,13,Cash,5.0
+P10326,Meera Patel,31,Female,ENT,2024-06-17,2024-06-20,Gastritis,5675,Dr. S. Reddy,3,Insurance,1.0
+P10327,Vivaan Rao,3,Male,Orthopedics,2024-06-21,2024-07-01,Hypertension,28052,Dr. Anil Kumar,10,Insurance,5.0
+P10328,Meera Naidu,26,Female,General Medicine,2024-01-28,2024-01-30,Gastritis,4965,Dr. Neha Singh,2,Insurance,4.0
+P10329,Meera Rao,25,Female,Orthopedics,2024-04-13,2024-04-23,Diabetes,29085,Dr. Arjun Patel,10,Insurance,1.0
+P10330,Divya Singh,41,Female,Neurology,2025-02-09,2025-02-14,Migraine,18054,Dr. Neha Singh,5,Debit Card,5.0
+P10331,Sanjay Singh,38,Female,Dermatology,2025-02-03,2025-02-10,Gastritis,7508,Dr. S. Reddy,7,Credit Card,1.0
+P10332,Diya Das,77,Female,Pediatrics,2024-09-27,2024-10-08,Arthritis,19162,Dr. Rahul Verma,11,Cash,1.0
+P10333,Rohan Patel,69,Female,General Medicine,2024-08-14,2024-08-20,Anemia,12863,Dr. Meera Rao,6,Cash,3.0
+P10334,Ananya Joshi,65,Female,ENT,2025-08-28,2025-09-09,Arthritis,16031,Dr. Meera Rao,12,UPI,2.0
+P10335,Aditya Naidu,1,Male,ENT,2024-12-01,2024-12-09,Hypertension,6945,Dr. Rahul Verma,8,Insurance,2.0
+P10336,Neha Iyer,42,Male,Oncology,2025-08-13,2025-08-27,Skin Allergy,73126,Dr. Meera Rao,14,Insurance,1.0
+P10337,Diya Kumar,65,Female,Neurology,2025-12-04,2025-12-13,Fracture,33913,Dr. Arjun Patel,9,Credit Card,4.0
+P10338,Aarav Gupta,22,Female,General Medicine,2024-08-19,2024-08-24,Diabetes,9357,Dr. Anil Kumar,5,Cash,1.0
+P10339,Sanjay Reddy,38,Male,ENT,2024-05-27,2024-06-07,Skin Allergy,12483,Dr. Priya Sharma,11,UPI,2.0
+P10340,Pooja Iyer,65,Male,Orthopedics,2025-11-26,2025-12-02,Fracture,21366,Dr. Neha Singh,6,UPI,3.0
+P10341,Aarav Singh,71,Female,Cardiology,2025-04-08,2025-04-16,Viral Fever,33475,Dr. Neha Singh,8,UPI,3.0
+P10342,Sai Yadav,77,Female,Oncology,2024-07-31,2024-08-02,Asthma,28007,Dr. Arjun Patel,2,Insurance,4.0
+P10343,Priya Rao,39,Female,Pediatrics,2025-03-29,2025-03-31,Anemia,1519,Dr. S. Reddy,2,Insurance,2.0
+P10344,Rohan Verma,36,Male,General Medicine,2025-01-10,2025-01-19,Hypertension,11605,Dr. Meera Rao,9,Insurance,4.0
+P10345,Aarav Patel,35,Female,ENT,2025-10-23,2025-10-26,Diabetes,3085,Dr. Anil Kumar,3,UPI,4.0
+P10346,Arjun Das,60,Female,General Medicine,2024-07-05,2024-07-19,Pneumonia,18639,Dr. S. Reddy,14,UPI,2.0
+P10347,Neha Gupta,38,Male,Pediatrics,2025-12-24,2026-01-05,Asthma,17206,Dr. Kavitha Naidu,12,Debit Card,2.0
+P10348,Aditya Singh,36,Male,Orthopedics,2025-11-14,2025-11-24,Anemia,17170,Dr. S. Reddy,10,Insurance,3.0
+P10349,Sanjay Patel,15,Female,Pediatrics,2024-05-11,2024-05-22,Arthritis,16626,Dr. Meera Rao,11,UPI,3.0
+P10350,Arjun Kumar,43,Male,Cardiology,2024-04-30,2024-05-09,Diabetes,34261,Dr. Anil Kumar,9,Cash,1.0
+P10351,Sanjay Kumar,22,Female,Oncology,2025-01-24,2025-01-25,Heart Disease,1547,Dr. Meera Rao,1,UPI,3.0
+P10352,Priya Yadav,47,Female,Oncology,2024-02-02,2024-02-08,Asthma,43547,Dr. Kavitha Naidu,6,Cash,1.0
+P10353,Kavya Naidu,80,Female,Orthopedics,2024-08-06,2024-08-13,Heart Disease,19652,Dr. Rahul Verma,7,Insurance,3.0
+P10354,Sai Reddy,70,Male,Orthopedics,2024-11-13,2024-11-26,Heart Disease,41460,Dr. Rahul Verma,13,Insurance,5.0
+P10355,Arjun Yadav,43,Female,ENT,2025-12-08,2025-12-12,Hypertension,5239,Dr. Neha Singh,4,Debit Card,3.0
+P10356,Aditya Reddy,87,Male,Cardiology,2025-12-25,2026-01-01,Viral Fever,29365,Dr. Priya Sharma,7,Cash,4.0
+P10357,Sanjay Naidu,88,Female,General Medicine,2024-04-20,2024-04-25,Asthma,7547,Dr. S. Reddy,5,Cash,2.0
+P10358,Ananya Iyer,40,Male,Pediatrics,2025-10-12,2025-10-14,Asthma,6266,Dr. Rahul Verma,2,Cash,5.0
+P10359,Meera Mishra,68,Female,Dermatology,2024-03-07,2024-03-09,Migraine,2078,Dr. Meera Rao,2,Cash,5.0
+P10360,Isha Iyer,31,Female,Neurology,2025-06-30,2025-07-06,Viral Fever,21422,Dr. Neha Singh,6,Debit Card,5.0
+P10361,Pooja Naidu,79,Male,General Medicine,2025-09-09,2025-09-11,Asthma,3518,Dr. Anil Kumar,2,Insurance,4.0
+P10362,Rohan Yadav,34,Male,Orthopedics,2025-10-12,2025-10-13,Fracture,1669,Dr. Anil Kumar,1,Insurance,4.0
+P10363,Sai Reddy,23,Female,General Medicine,2024-06-12,2024-06-17,Migraine,7793,Dr. S. Reddy,5,UPI,3.0
+P10364,Priya Yadav,12,Male,Cardiology,2025-10-14,2025-10-17,Diabetes,22061,Dr. Meera Rao,3,,5.0
+P10365,Vivaan Joshi,75,Male,Pediatrics,2024-03-25,2024-04-02,Skin Allergy,12194,Dr. Neha Singh,8,Insurance,5.0
+P10366,Sanjay Mishra,27,Male,General Medicine,2025-01-13,2025-01-14,Gastritis,2222,Dr. Meera Rao,1,Insurance,3.0
+P10367,Diya Patel,73,Female,Neurology,2024-12-08,2024-12-13,Pneumonia,21634,Dr. Meera Rao,5,Insurance,1.0
+P10368,Meera Sharma,8,Female,Cardiology,2024-08-18,2024-08-25,Pneumonia,30946,Dr. Priya Sharma,7,Insurance,1.0
+P10369,Sanjay Das,45,Male,Neurology,2024-01-17,2024-01-31,Hypertension,44852,Dr. Meera Rao,14,Insurance,2.0
+P10370,Isha Gupta,39,Female,Orthopedics,2025-07-17,2025-07-26,Migraine,15857,Dr. Rahul Verma,9,Insurance,1.0
+P10371,Rahul Gupta,40,Male,Cardiology,2024-09-01,2024-09-14,Heart Disease,49404,Dr. Rahul Verma,13,UPI,2.0
+P10372,Sanjay Mishra,15,Male,ENT,2025-04-28,2025-05-03,Hypertension,2271,Dr. Rahul Verma,5,UPI,1.0
+P10373,Divya Das,7,Male,Pediatrics,2024-10-26,2024-11-02,Diabetes,14492,Dr. Meera Rao,7,UPI,5.0
+P10374,Rahul Rao,31,Male,Oncology,2024-09-29,2024-10-05,Skin Allergy,31186,Dr. Priya Sharma,6,Cash,1.0
+P10375,Aarav Naidu,42,Male,ENT,2025-10-08,2025-10-21,Viral Fever,17279,Dr. Priya Sharma,13,Insurance,4.0
+P10376,Pooja Sharma,71,Female,Cardiology,2024-03-09,2024-03-23,Hypertension,45853,Dr. Priya Sharma,14,Debit Card,2.0
+P10377,Meera Sharma,42,Male,General Medicine,2025-06-21,2025-07-05,Asthma,16557,Dr. Rahul Verma,14,UPI,1.0
+P10378,Diya Sharma,22,Female,ENT,2025-06-29,2025-07-10,Gastritis,13638,Dr. Arjun Patel,11,Cash,4.0
+P10379,Rahul Joshi,24,Male,General Medicine,2024-10-04,2024-10-12,Pneumonia,11134,Dr. Neha Singh,8,Insurance,5.0
+P10380,Manoj Iyer,55,Male,Pediatrics,2024-07-10,2024-07-18,Pneumonia,11698,Dr. S. Reddy,8,Insurance,4.0
+P10381,Sai Gupta,39,Male,Pediatrics,2024-01-04,2024-01-18,Arthritis,22589,Dr. Anil Kumar,14,Cash,5.0
+P10382,Aditya Singh,81,Female,Cardiology,2025-11-14,2025-11-18,Arthritis,28347,Dr. Kavitha Naidu,4,Cash,3.0
+P10383,Meera Iyer,40,Female,General Medicine,2025-11-22,2025-11-27,Skin Allergy,8635,Dr. Anil Kumar,5,Insurance,4.0
+P10384,Vivaan Joshi,51,Male,ENT,2024-06-24,2024-07-07,Fracture,17363,Dr. Kavitha Naidu,13,Debit Card,1.0
+P10385,Isha Mishra,6,Male,ENT,2024-01-24,2024-01-30,Migraine,8617,Dr. Meera Rao,6,Credit Card,5.0
+P10386,Meera Verma,18,Male,Cardiology,2024-03-30,2024-04-03,Diabetes,21856,Dr. Arjun Patel,4,Credit Card,4.0
+P10387,Neha Joshi,76,Female,Dermatology,2024-02-19,2024-02-27,Arthritis,7733,Dr. Kavitha Naidu,8,Insurance,2.0
+P10388,Arjun Gupta,31,Male,Orthopedics,2025-08-29,2025-09-03,Viral Fever,5945,,5,UPI,2.0
+P10389,Aarav Gupta,38,Female,ENT,2025-10-13,2025-10-26,Pneumonia,15283,Dr. Meera Rao,13,UPI,4.0
+P10390,Sanjay Joshi,53,Male,Cardiology,2024-04-21,2024-05-04,Gastritis,50891,Dr. Arjun Patel,13,Insurance,1.0
+P10391,Rohan Singh,6,Male,ENT,2025-06-29,2025-07-04,Pneumonia,4370,Dr. Rahul Verma,5,Credit Card,5.0
+P10392,Priya Singh,46,Female,Oncology,2024-05-10,2024-05-18,Fracture,38765,Dr. Kavitha Naidu,8,Credit Card,2.0
+P10393,Arjun Rao,31,Male,Cardiology,2024-09-25,2024-10-09,Viral Fever,46913,Dr. S. Reddy,14,UPI,1.0
+P10394,Diya Gupta,14,Male,Cardiology,2025-03-13,2025-03-24,Asthma,47170,Dr. Meera Rao,11,Insurance,2.0
+P10395,Divya Verma,38,Female,Oncology,2025-06-09,2025-06-13,Pneumonia,25246,Dr. Arjun Patel,4,UPI,5.0
+P10396,Ananya Das,40,Male,Neurology,2025-09-30,2025-10-09,Asthma,31718,Dr. Meera Rao,9,Cash,2.0
+P10397,Manoj Naidu,17,Male,General Medicine,2024-02-02,2024-02-11,Skin Allergy,13818,Dr. Anil Kumar,9,Insurance,3.0
+P10398,Isha Patel,49,Male,ENT,2024-05-23,2024-06-02,Fracture,11937,Dr. Meera Rao,10,Insurance,5.0
+P10399,Pooja Mishra,67,Male,General Medicine,2024-07-23,2024-07-24,Migraine,1787,Dr. Meera Rao,1,Insurance,1.0
+P10400,Arjun Singh,24,Female,Pediatrics,2024-08-14,2024-08-19,Viral Fever,5345,Dr. Meera Rao,5,Insurance,4.0
+P10401,Rohan Mishra,87,Male,Pediatrics,2025-12-29,2026-01-10,Hypertension,14302,Dr. Anil Kumar,12,Cash,2.0
+P10402,Vivaan Patel,55,Female,Cardiology,2025-07-21,2025-07-25,Diabetes,15156,Dr. Priya Sharma,4,UPI,4.0
+P10403,Kiran Verma,69,Female,ENT,2024-08-21,2024-08-26,Viral Fever,6544,Dr. S. Reddy,5,Insurance,1.0
+P10404,Sai Verma,7,Female,Orthopedics,2025-12-10,2025-12-15,Viral Fever,18740,Dr. Meera Rao,5,Debit Card,1.0
+P10405,Rahul Joshi,69,Female,Neurology,2024-12-30,2025-01-02,Arthritis,16639,Dr. Anil Kumar,3,Insurance,4.0
+P10406,Vivaan Sharma,30,Female,Orthopedics,2024-12-31,2025-01-03,Diabetes,14554,Dr. Meera Rao,3,Credit Card,5.0
+P10407,Vivaan Mishra,64,Female,ENT,2024-11-12,2024-11-17,Skin Allergy,4323,Dr. S. Reddy,5,Debit Card,5.0
+P10408,Neha Gupta,72,Male,Cardiology,2024-04-15,2024-04-28,Asthma,45024,Dr. Anil Kumar,13,UPI,4.0
+P10409,Manoj Verma,23,Male,ENT,2025-11-13,2025-11-14,Diabetes,2006,Dr. S. Reddy,1,Credit Card,3.0
+P10410,Sai Gupta,24,Female,Dermatology,2024-01-11,2024-01-15,Migraine,7544,Dr. S. Reddy,4,UPI,1.0
+P10411,Rahul Reddy,6,Male,Oncology,2024-05-07,2024-05-08,Fracture,15360,,1,Insurance,
+P10412,Kavya Gupta,54,Female,ENT,2024-06-16,2024-06-24,Asthma,11480,Dr. Arjun Patel,8,Insurance,4.0
+P10413,Vivaan Patel,69,Male,Oncology,2024-07-22,2024-07-26,Asthma,17285,Dr. Anil Kumar,4,Cash,2.0
+P10414,Diya Singh,37,Female,ENT,2024-04-06,2024-04-18,Asthma,12916,Dr. Rahul Verma,12,Insurance,3.0
+P10415,Rohan Das,15,Male,Cardiology,2024-01-14,2024-01-23,Asthma,36376,Dr. Kavitha Naidu,9,Cash,1.0
+P10416,Diya Gupta,29,Female,Oncology,2025-05-09,2025-05-20,Skin Allergy,47295,Dr. Arjun Patel,11,Insurance,3.0
+P10417,Manoj Kumar,36,Male,General Medicine,2025-12-08,2025-12-17,Heart Disease,12132,Dr. Rahul Verma,9,UPI,2.0
+P10418,Ananya Kumar,82,Male,General Medicine,2024-03-29,2024-04-05,Asthma,9575,Dr. Rahul Verma,7,UPI,1.0
+P10419,Divya Sharma,12,Female,ENT,2024-08-04,2024-08-17,Heart Disease,18276,Dr. Arjun Patel,13,UPI,1.0
+P10420,Sanjay Sharma,31,Female,ENT,2025-01-04,2025-01-11,Anemia,7804,Dr. Arjun Patel,7,UPI,3.0
+P10421,Kiran Das,57,Female,Dermatology,2025-11-08,2025-11-22,Anemia,10585,Dr. Priya Sharma,14,Insurance,2.0
+P10422,Sanjay Sharma,22,Female,Pediatrics,2025-05-21,2025-06-04,Fracture,23529,Dr. Arjun Patel,14,Insurance,1.0
+P10423,Sai Mishra,79,Male,Pediatrics,2025-07-13,2025-07-22,Asthma,12834,Dr. Meera Rao,9,Credit Card,3.0
+P10424,Kiran Patel,81,Female,Pediatrics,2025-02-28,2025-03-10,Pneumonia,16095,Dr. Anil Kumar,10,Credit Card,1.0
+P10425,Rahul Kumar,34,Male,Orthopedics,2024-10-31,2024-11-04,Diabetes,10860,Dr. Rahul Verma,4,Cash,1.0
+P10426,Pooja Mishra,67,Female,Pediatrics,2024-05-25,2024-06-06,Hypertension,18586,Dr. Neha Singh,12,Cash,
+P10427,Pooja Rao,68,Male,Cardiology,2025-09-22,2025-10-02,Arthritis,39983,Dr. Priya Sharma,10,Cash,3.0
+P10428,Aditya Naidu,61,Male,Cardiology,2025-08-10,2025-08-23,Asthma,39074,Dr. Anil Kumar,13,Insurance,5.0
+P10429,Kiran Yadav,17,Female,Dermatology,2024-01-19,2024-01-23,Anemia,3276,Dr. Neha Singh,4,Insurance,2.0
+P10430,Kavya Yadav,5,Female,Pediatrics,2025-06-06,2025-06-18,Gastritis,20732,Dr. Rahul Verma,12,Cash,2.0
+P10431,Manoj Iyer,31,Male,ENT,2024-03-02,2024-03-09,Diabetes,7368,Dr. Priya Sharma,7,Credit Card,2.0
+P10432,Aditya Kumar,12,Female,General Medicine,2025-06-23,2025-06-26,Skin Allergy,1500,Dr. Arjun Patel,3,Debit Card,2.0
+P10433,Aarav Verma,27,Female,Cardiology,2025-08-25,2025-08-28,Asthma,14169,Dr. Meera Rao,3,Cash,4.0
+P10434,Sai Yadav,57,Male,Neurology,2024-04-05,2024-04-13,Viral Fever,30631,Dr. S. Reddy,8,UPI,2.0
+P10435,Aditya Yadav,53,Female,Neurology,2024-11-12,2024-11-17,Heart Disease,15798,Dr. S. Reddy,5,UPI,4.0
+P10436,Neha Kumar,19,Male,ENT,2024-03-31,2024-04-02,Arthritis,1500,Dr. Rahul Verma,2,Insurance,5.0
+P10437,Vivaan Singh,2,Male,Neurology,2025-02-18,2025-02-24,Hypertension,22362,Dr. Priya Sharma,6,Credit Card,5.0
+P10438,Kiran Rao,21,Female,General Medicine,2025-11-08,2025-11-18,Fracture,10746,,10,Cash,3.0
+P10439,Meera Kumar,41,Male,ENT,2024-02-29,2024-03-05,Asthma,6518,Dr. S. Reddy,5,Credit Card,4.0
+P10440,Aditya Iyer,70,Male,ENT,2024-10-17,2024-10-31,Hypertension,15309,Dr. Anil Kumar,14,Insurance,5.0
+P10441,Vikram Rao,33,Female,Neurology,2025-12-11,2025-12-22,Fracture,30003,Dr. Arjun Patel,11,UPI,4.0
+P10442,Divya Singh,26,Male,Cardiology,2024-08-07,2024-08-15,Anemia,26572,Dr. Anil Kumar,8,Debit Card,2.0
+P10443,Kiran Kumar,50,Female,Neurology,2024-04-06,2024-04-20,Diabetes,43978,Dr. Neha Singh,14,Insurance,1.0
+P10444,Diya Gupta,7,Female,Cardiology,2024-12-22,2024-12-29,Fracture,21953,Dr. Anil Kumar,7,Insurance,1.0
+P10445,Neha Sharma,21,Male,Neurology,2025-01-06,2025-01-08,Viral Fever,9037,Dr. S. Reddy,2,Insurance,5.0
+P10446,Arjun Naidu,4,Female,General Medicine,2025-04-28,2025-04-29,Diabetes,1500,Dr. Anil Kumar,1,UPI,3.0
+P10447,Vivaan Sharma,47,Male,ENT,2024-08-17,2024-08-31,Migraine,18446,Dr. S. Reddy,14,Credit Card,2.0
+P10448,Kavya Yadav,40,Female,General Medicine,2025-11-28,2025-12-12,Heart Disease,20151,Dr. Rahul Verma,14,Insurance,2.0
+P10449,Priya Sharma,52,Male,General Medicine,2025-01-15,2025-01-26,Arthritis,14032,Dr. Anil Kumar,11,UPI,2.0
+P10450,Vikram Gupta,55,Female,Neurology,2024-07-28,2024-07-30,Heart Disease,2520,Dr. Rahul Verma,2,Cash,5.0
+P10451,Rahul Sharma,36,Male,Oncology,2025-12-02,2025-12-07,Pneumonia,13467,Dr. Arjun Patel,5,Cash,4.0
+P10452,Priya Kumar,78,Female,General Medicine,2025-11-06,2025-11-07,Arthritis,1969,Dr. Meera Rao,1,Cash,5.0
+P10453,Kavya Patel,82,Male,ENT,2024-12-30,2024-12-31,Fracture,1500,Dr. Anil Kumar,1,Cash,2.0
+P10454,Divya Reddy,10,Male,ENT,2024-01-19,2024-01-23,Pneumonia,1500,Dr. Kavitha Naidu,4,Cash,3.0
+P10455,Neha Sharma,82,Male,Orthopedics,2025-03-11,2025-03-20,Fracture,23099,Dr. Priya Sharma,9,Insurance,1.0
+P10456,Neha Gupta,18,Female,Cardiology,2025-02-09,2025-02-10,Anemia,1500,Dr. Anil Kumar,1,Cash,5.0
+P10457,Vikram Das,23,Female,Neurology,2024-04-18,2024-05-02,Fracture,51859,Dr. Meera Rao,14,UPI,3.0
+P10458,Ananya Kumar,48,Male,Pediatrics,2025-04-07,2025-04-14,Fracture,7385,Dr. S. Reddy,7,Cash,3.0
+P10459,Priya Naidu,3,Male,ENT,2025-09-05,2025-09-09,Asthma,2378,Dr. Anil Kumar,4,UPI,3.0
+P10460,Vivaan Verma,33,Male,Orthopedics,2024-03-18,2024-03-26,Asthma,26751,Dr. Arjun Patel,8,Cash,2.0
+P10461,Sai Patel,18,Male,Dermatology,2025-06-12,2025-06-24,Migraine,13899,Dr. Rahul Verma,12,UPI,5.0
+P10462,Aarav Singh,43,Female,General Medicine,2024-04-12,2024-04-17,Pneumonia,5539,Dr. Neha Singh,5,Insurance,3.0
+P10463,Sai Kumar,73,Female,Neurology,2025-06-30,2025-07-01,Migraine,1500,Dr. Meera Rao,1,UPI,4.0
+P10464,Diya Patel,83,Female,Orthopedics,2024-11-01,2024-11-02,Skin Allergy,5215,Dr. Meera Rao,1,Insurance,1.0
+P10465,Aditya Gupta,19,Male,General Medicine,2024-01-05,2024-01-17,Viral Fever,12238,Dr. Arjun Patel,12,Insurance,2.0
+P10466,Vivaan Yadav,49,Male,General Medicine,2025-12-06,2025-12-08,Heart Disease,1500,Dr. Anil Kumar,2,Insurance,5.0
+P10467,Isha Yadav,43,Female,Pediatrics,2024-05-01,2024-05-10,Heart Disease,13771,Dr. S. Reddy,9,Insurance,1.0
+P10468,Pooja Yadav,37,Male,Neurology,2025-03-11,2025-03-17,Arthritis,26143,Dr. Arjun Patel,6,Debit Card,1.0
+P10469,Meera Naidu,57,Female,Dermatology,2024-05-12,2024-05-23,Anemia,10389,Dr. S. Reddy,11,Debit Card,5.0
+P10470,Rahul Kumar,89,Male,Neurology,2025-11-12,2025-11-13,Diabetes,3652,Dr. Neha Singh,1,UPI,2.0
+P10471,Sanjay Rao,37,Male,ENT,2025-06-22,2025-07-05,Heart Disease,17504,Dr. S. Reddy,13,Insurance,2.0
+P10472,Aarav Patel,6,Female,Neurology,2025-08-10,2025-08-20,Asthma,41438,Dr. Meera Rao,10,UPI,3.0
+P10473,Sai Reddy,82,Male,Cardiology,2024-11-11,2024-11-18,Gastritis,22292,Dr. Neha Singh,7,UPI,1.0
+P10474,Neha Kumar,83,Female,Pediatrics,2024-12-07,2024-12-10,Fracture,4762,Dr. Priya Sharma,3,Insurance,1.0
+P10475,Sanjay Naidu,29,Male,General Medicine,2025-04-08,2025-04-22,Diabetes,23171,Dr. Neha Singh,14,Cash,1.0
+P10476,Rahul Singh,45,Male,General Medicine,2025-07-26,2025-07-31,Skin Allergy,4016,Dr. Anil Kumar,5,Credit Card,1.0
+P10477,Aditya Sharma,77,Male,Pediatrics,2025-09-10,2025-09-17,Asthma,13501,Dr. S. Reddy,7,Insurance,1.0
+P10478,Kavya Iyer,45,Male,ENT,2024-01-14,2024-01-20,Diabetes,5489,Dr. Rahul Verma,6,Cash,4.0
+P10479,Rohan Singh,43,Male,Pediatrics,2025-04-29,2025-05-03,Arthritis,6629,Dr. Rahul Verma,4,UPI,2.0
+P10480,Divya Joshi,83,Male,Pediatrics,2024-03-20,2024-03-26,Hypertension,9056,Dr. Neha Singh,6,Insurance,1.0
+P10481,Diya Patel,74,Female,Pediatrics,2024-07-29,2024-08-01,Asthma,2654,Dr. Neha Singh,3,Cash,1.0
+P10482,Kiran Verma,46,Female,Cardiology,2025-08-28,2025-08-29,Gastritis,1500,Dr. Kavitha Naidu,1,Cash,3.0
+P10483,Priya Sharma,15,Male,General Medicine,2024-07-01,2024-07-06,Gastritis,7541,Dr. Kavitha Naidu,5,UPI,5.0
+P10484,Vivaan Gupta,40,Male,Neurology,2025-08-04,2025-08-06,Asthma,10860,Dr. S. Reddy,2,Debit Card,2.0
+P10485,Manoj Sharma,61,Male,General Medicine,2024-12-03,2024-12-09,Pneumonia,8145,Dr. Arjun Patel,6,UPI,1.0
+P10486,Diya Sharma,25,Female,Cardiology,2024-06-18,2024-07-01,Skin Allergy,47153,Dr. Kavitha Naidu,13,Credit Card,2.0
+P10487,Sai Das,48,Female,ENT,2024-08-31,2024-09-03,Fracture,4559,,3,Credit Card,3.0
+P10488,Rohan Patel,59,Male,Pediatrics,2025-01-22,2025-01-23,Hypertension,1500,Dr. Arjun Patel,1,Credit Card,1.0
+P10489,Vikram Sharma,8,Female,ENT,2025-07-12,2025-07-14,Diabetes,3642,Dr. S. Reddy,2,Cash,
+P10490,Arjun Mishra,51,Male,Pediatrics,2025-03-18,2025-03-26,Anemia,14635,Dr. Meera Rao,8,Insurance,4.0
+P10491,Priya Reddy,66,Male,Cardiology,2025-11-12,2025-11-16,Asthma,27522,Dr. Meera Rao,4,UPI,2.0
+P10492,Diya Verma,20,Male,Oncology,2025-09-25,2025-10-02,Hypertension,32367,Dr. Arjun Patel,7,UPI,5.0
+P10493,Rohan Verma,49,Female,General Medicine,2025-07-03,2025-07-04,Fracture,1500,Dr. S. Reddy,1,Cash,2.0
+P10494,Kavya Patel,64,Male,Oncology,2025-03-16,2025-03-21,Hypertension,30382,Dr. Meera Rao,5,UPI,1.0
+P10495,Sanjay Naidu,4,Male,Pediatrics,2024-07-30,2024-08-05,Anemia,11434,Dr. Anil Kumar,6,Credit Card,5.0
+P10496,Vikram Kumar,58,Male,General Medicine,2024-10-28,2024-11-04,Asthma,8751,Dr. S. Reddy,7,Cash,5.0
+P10497,Kiran Iyer,24,Female,Oncology,2024-03-27,2024-04-04,Hypertension,37177,Dr. Anil Kumar,8,Insurance,2.0
+P10498,Pooja Patel,36,Male,General Medicine,2024-09-30,2024-10-11,Fracture,16460,Dr. Rahul Verma,11,Insurance,3.0
+P10499,Vikram Sharma,58,Male,Orthopedics,2025-11-07,2025-11-14,Arthritis,16355,Dr. Neha Singh,7,Cash,1.0
+P10500,Diya Rao,1,Male,General Medicine,2024-11-06,2024-11-18,Arthritis,15995,Dr. Meera Rao,12,Cash,4.0
+P10501,Diya Mishra,2,Female,General Medicine,2024-03-24,2024-04-01,Anemia,11375,Dr. Neha Singh,8,Insurance,4.0
+P10502,Rahul Nair,40,Male,ENT,2025-04-20,2025-04-24,Hypertension,6473,Dr. Neha Singh,4,Insurance,4.0
+P10503,Rohan Yadav,85,Female,Orthopedics,2025-12-03,2025-12-07,Hypertension,8829,Dr. Anil Kumar,4,Insurance,3.0
+P10504,Diya Das,1,Male,Pediatrics,2025-09-25,2025-09-30,Hypertension,3873,Dr. Rahul Verma,5,UPI,4.0
+P10505,Neha Das,71,Male,Oncology,2024-07-19,2024-07-28,Pneumonia,31583,Dr. Rahul Verma,9,UPI,3.0
+P10506,Kavya Gupta,7,Female,General Medicine,2024-11-27,2024-12-01,Gastritis,3131,Dr. Meera Rao,4,Cash,5.0
+P10507,Kavya Mishra,44,Female,Dermatology,2025-01-22,2025-02-04,Arthritis,11161,Dr. Arjun Patel,13,Insurance,1.0
+P10508,Ananya Gupta,39,Male,Pediatrics,2024-06-29,2024-07-06,Fracture,10853,Dr. Meera Rao,7,Insurance,3.0
+P10509,Arjun Singh,42,Female,Neurology,2024-07-15,2024-07-28,Arthritis,36273,Dr. Anil Kumar,13,Insurance,3.0
+P10510,Manoj Das,8,Female,Dermatology,2024-06-21,2024-07-01,Arthritis,9016,Dr. Rahul Verma,10,Cash,3.0
+P10511,Sai Verma,68,Male,Cardiology,2025-12-27,2026-01-01,Fracture,14098,Dr. Priya Sharma,5,Insurance,1.0
+P10512,Sanjay Kumar,25,Female,Neurology,2025-06-28,2025-07-02,Gastritis,10826,Dr. S. Reddy,4,Insurance,2.0
+P10513,Vivaan Singh,69,Female,General Medicine,2025-09-05,2025-09-16,Asthma,17992,Dr. Rahul Verma,11,Debit Card,5.0
+P10514,Neha Rao,59,Male,Dermatology,2025-08-19,2025-08-24,Hypertension,5926,Dr. Kavitha Naidu,5,Cash,1.0
+P10515,Sanjay Joshi,50,Female,ENT,2025-12-01,2025-12-05,Pneumonia,4827,Dr. S. Reddy,4,UPI,4.0
+P10516,Meera Singh,28,Male,Orthopedics,2024-03-17,2024-03-31,Anemia,37392,Dr. Meera Rao,14,Insurance,4.0
+P10517,Aarav Joshi,59,Male,Cardiology,2025-10-05,2025-10-12,Gastritis,23016,Dr. Anil Kumar,7,Insurance,3.0
+P10518,Pooja Naidu,89,Female,ENT,2024-02-18,2024-02-19,Migraine,1750,Dr. Meera Rao,1,Debit Card,1.0
+P10519,Meera Nair,83,Female,Neurology,2024-12-13,2024-12-20,Anemia,25017,Dr. Rahul Verma,7,Cash,1.0
+P10520,Neha Sharma,82,Female,Neurology,2025-03-09,2025-03-16,Pneumonia,18333,Dr. Rahul Verma,7,Credit Card,2.0
+P10521,Neha Mishra,20,Female,Orthopedics,2024-09-18,2024-10-01,Asthma,36543,Dr. S. Reddy,13,Debit Card,1.0
+P10522,Manoj Gupta,53,Female,General Medicine,2024-04-16,2024-04-26,Diabetes,10018,Dr. Anil Kumar,10,Cash,1.0
+P10523,Meera Patel,36,Male,ENT,2024-05-20,2024-05-23,Heart Disease,3955,Dr. Rahul Verma,3,Insurance,1.0
+P10524,Neha Patel,87,Female,Dermatology,2025-08-25,2025-08-28,Skin Allergy,4067,Dr. Kavitha Naidu,3,Cash,1.0
+P10525,Kiran Patel,85,Female,Dermatology,2024-08-20,2024-08-29,Fracture,8607,Dr. Anil Kumar,9,Insurance,5.0
+P10526,Kiran Singh,78,Female,Neurology,2024-08-14,2024-08-15,Viral Fever,11338,Dr. Rahul Verma,1,Insurance,4.0
+P10527,Vivaan Iyer,15,Male,Orthopedics,2025-11-05,2025-11-10,Anemia,10545,Dr. Anil Kumar,5,Insurance,1.0
+P10528,Diya Yadav,29,Male,Pediatrics,2024-04-15,2024-04-17,Viral Fever,3687,Dr. Meera Rao,2,UPI,4.0
+P10529,Arjun Iyer,64,Male,Neurology,2025-10-30,2025-10-31,Fracture,3039,Dr. Kavitha Naidu,1,Credit Card,1.0
+P10530,Arjun Verma,67,Male,Orthopedics,2025-11-03,2025-11-16,Heart Disease,36006,Dr. Kavitha Naidu,13,Insurance,3.0
+P10531,Isha Naidu,32,Male,Orthopedics,2025-03-12,2025-03-14,Migraine,5151,Dr. Kavitha Naidu,2,Insurance,1.0
+P10532,Neha Joshi,13,Female,Cardiology,2024-04-30,2024-05-01,Pneumonia,4139,Dr. Arjun Patel,1,UPI,1.0
+P10533,Kiran Joshi,13,Female,General Medicine,2024-04-23,2024-05-07,Pneumonia,21261,Dr. Priya Sharma,14,UPI,1.0
+P10534,Arjun Rao,61,Male,Dermatology,2024-07-26,2024-07-29,Skin Allergy,4928,Dr. Arjun Patel,3,Insurance,3.0
+P10535,Kiran Yadav,41,Male,Cardiology,2025-02-25,2025-03-09,Viral Fever,43188,Dr. S. Reddy,12,Insurance,3.0
+P10536,Aditya Singh,44,Female,Pediatrics,2024-04-22,2024-04-23,Gastritis,3426,Dr. S. Reddy,1,UPI,2.0
+P10537,Diya Joshi,73,Male,Oncology,2024-11-28,2024-12-01,Skin Allergy,10087,Dr. Arjun Patel,3,UPI,4.0
+P10538,Isha Yadav,2,Female,Dermatology,2024-03-25,2024-03-27,Heart Disease,3072,Dr. S. Reddy,2,UPI,4.0
+P10539,Rahul Iyer,68,Male,Oncology,2025-01-29,2025-02-08,Skin Allergy,44666,Dr. Anil Kumar,10,Insurance,4.0
+P10540,Manoj Sharma,25,Male,Pediatrics,2024-01-16,2024-01-25,Skin Allergy,16843,Dr. Kavitha Naidu,9,Insurance,3.0
+P10541,Diya Verma,83,Male,Oncology,2025-06-01,2025-06-08,Heart Disease,50474,Dr. Kavitha Naidu,7,Cash,3.0
+P10542,Sai Kumar,86,Female,Orthopedics,2024-02-10,2024-02-14,Heart Disease,10721,Dr. Rahul Verma,4,Insurance,3.0
+P10543,Aditya Nair,45,Male,Orthopedics,2024-05-22,2024-05-24,Arthritis,1500,Dr. Priya Sharma,2,UPI,2.0
+P10544,Neha Rao,29,Female,Neurology,2024-05-07,2024-05-15,Diabetes,23144,Dr. Kavitha Naidu,8,Insurance,3.0
+P10545,Rahul Iyer,21,Male,Pediatrics,2025-08-29,2025-09-02,Diabetes,9159,Dr. Priya Sharma,4,Credit Card,1.0
+P10546,Sanjay Mishra,17,Male,Pediatrics,2024-02-08,2024-02-17,Anemia,15638,Dr. Rahul Verma,9,UPI,5.0
+P10547,Pooja Sharma,89,Female,Orthopedics,2024-11-09,2024-11-19,Migraine,28975,Dr. Rahul Verma,10,Debit Card,2.0
+P10548,Manoj Singh,17,Male,Dermatology,2025-03-07,2025-03-19,Anemia,13412,Dr. Arjun Patel,12,Credit Card,4.0
+P10549,Diya Das,40,Male,Orthopedics,2025-01-11,2025-01-18,Heart Disease,21499,Dr. Neha Singh,7,Debit Card,5.0
+P10550,Kavya Naidu,43,Male,Orthopedics,2025-05-11,2025-05-12,Arthritis,7573,Dr. Priya Sharma,1,Insurance,3.0
+P10551,Vikram Sharma,61,Female,Cardiology,2025-08-09,2025-08-13,Anemia,19033,Dr. Anil Kumar,4,Cash,5.0
+P10552,Vivaan Reddy,75,Male,Pediatrics,2024-10-14,2024-10-26,Migraine,22608,Dr. Rahul Verma,12,Insurance,3.0
+P10553,Sanjay Naidu,50,Male,Orthopedics,2025-08-27,2025-09-04,Asthma,23806,Dr. Neha Singh,8,Debit Card,1.0
+P10554,Diya Das,68,Female,Orthopedics,2024-08-20,2024-08-29,Heart Disease,28748,Dr. Priya Sharma,9,UPI,1.0
+P10555,Diya Verma,51,Female,Neurology,2025-12-19,2025-12-26,Anemia,21024,Dr. Meera Rao,7,Insurance,1.0
+P10556,Vivaan Sharma,39,Female,Dermatology,2025-01-03,2025-01-06,Fracture,2157,Dr. Meera Rao,3,Insurance,5.0
+P10557,Divya Naidu,15,Female,ENT,2025-06-21,2025-07-04,Heart Disease,18467,Dr. S. Reddy,13,Cash,3.0
+P10558,Arjun Singh,19,Female,Pediatrics,2025-09-30,2025-10-11,Asthma,18084,Dr. Kavitha Naidu,11,Insurance,2.0
+P10559,Kiran Rao,39,Male,General Medicine,2025-08-01,2025-08-15,Skin Allergy,21177,Dr. S. Reddy,14,UPI,3.0
+P10560,Rohan Iyer,5,Male,ENT,2025-09-13,2025-09-25,Viral Fever,14607,Dr. Meera Rao,12,Insurance,2.0
+P10561,Aditya Rao,29,Female,ENT,2025-01-26,2025-01-31,Arthritis,5014,Dr. Arjun Patel,5,UPI,5.0
+P10562,Isha Verma,42,Female,General Medicine,2024-02-01,2024-02-05,Diabetes,5621,Dr. Meera Rao,4,Cash,5.0
+P10563,Pooja Mishra,43,Female,ENT,2024-12-25,2024-12-29,Pneumonia,7212,Dr. Anil Kumar,4,Cash,1.0
+P10564,Rohan Verma,73,Female,ENT,2024-05-12,2024-05-25,Gastritis,16532,Dr. Neha Singh,13,Insurance,4.0
+P10565,Aarav Das,87,Male,Oncology,2025-10-11,2025-10-19,Skin Allergy,28019,Dr. S. Reddy,8,,2.0
+P10566,Arjun Kumar,65,Male,Pediatrics,2024-06-21,2024-06-28,Diabetes,10717,Dr. Arjun Patel,7,Credit Card,1.0
+P10567,Neha Sharma,8,Female,Cardiology,2024-06-15,2024-06-29,Hypertension,59382,Dr. Arjun Patel,14,Cash,
+P10568,Isha Kumar,37,Male,Cardiology,2024-07-01,2024-07-10,Gastritis,31322,Dr. Rahul Verma,9,Cash,1.0
+P10569,Rahul Nair,65,Female,Pediatrics,2025-04-14,2025-04-27,Asthma,16766,Dr. Anil Kumar,13,UPI,2.0
+P10570,Priya Joshi,53,Female,Pediatrics,2025-02-20,2025-03-06,Skin Allergy,26640,Dr. Neha Singh,14,UPI,1.0
+P10571,Diya Sharma,41,Male,Pediatrics,2025-11-23,2025-11-25,Hypertension,4728,Dr. Kavitha Naidu,2,UPI,3.0
+P10572,Arjun Patel,39,Female,General Medicine,2024-10-30,2024-11-05,Pneumonia,8262,Dr. Meera Rao,6,Credit Card,3.0
+P10573,Sai Rao,37,Female,General Medicine,2024-07-25,2024-08-05,Hypertension,14672,Dr. Arjun Patel,11,UPI,2.0
+P10574,Sai Verma,52,Female,Oncology,2024-02-05,2024-02-17,Gastritis,67576,Dr. Arjun Patel,12,Insurance,1.0
+P10575,Aditya Das,16,Male,Cardiology,2024-01-06,2024-01-09,Skin Allergy,8068,Dr. Arjun Patel,3,UPI,1.0
+P10576,Kiran Iyer,47,Female,Neurology,2024-09-29,2024-10-04,Diabetes,21144,Dr. Priya Sharma,5,Cash,5.0
+P10577,Meera Mishra,19,Male,Oncology,2025-11-06,2025-11-14,Migraine,43795,Dr. Kavitha Naidu,8,Credit Card,5.0
+P10578,Diya Rao,61,Female,Oncology,2025-01-17,2025-01-29,Skin Allergy,61712,Dr. S. Reddy,12,Debit Card,5.0
+P10579,Priya Das,77,Male,ENT,2025-10-14,2025-10-16,Hypertension,2644,Dr. Anil Kumar,2,Debit Card,3.0
+P10580,Diya Verma,46,Female,ENT,2024-03-15,2024-03-24,Heart Disease,10506,Dr. S. Reddy,9,Cash,3.0
+P10581,Isha Rao,35,Female,ENT,2024-03-09,2024-03-14,Skin Allergy,7756,Dr. Anil Kumar,5,Credit Card,4.0
+P10582,Kiran Mishra,84,Female,Orthopedics,2025-08-31,2025-09-04,Diabetes,7807,Dr. Anil Kumar,4,UPI,4.0
+P10583,Neha Kumar,59,Female,Pediatrics,2024-03-18,2024-03-26,Diabetes,9166,Dr. Kavitha Naidu,8,Debit Card,3.0
+P10584,Vikram Iyer,39,Male,Orthopedics,2024-02-07,2024-02-13,Gastritis,19208,Dr. Rahul Verma,6,UPI,2.0
+P10585,Vivaan Iyer,3,Female,General Medicine,2024-10-21,2024-10-30,Hypertension,13837,Dr. Meera Rao,9,Insurance,3.0
+P10586,Priya Mishra,2,Male,ENT,2025-11-06,2025-11-11,Viral Fever,6806,Dr. Priya Sharma,5,Insurance,1.0
+P10587,Isha Gupta,20,Female,Orthopedics,2025-05-18,2025-05-30,Hypertension,35198,Dr. Arjun Patel,12,UPI,1.0
+P10588,Kiran Rao,22,Male,General Medicine,2024-03-13,2024-03-15,Viral Fever,2171,Dr. Kavitha Naidu,2,UPI,4.0
+P10589,Kavya Joshi,65,Female,Orthopedics,2025-09-03,2025-09-16,Pneumonia,39486,Dr. Rahul Verma,13,,5.0
+P10590,Pooja Nair,45,Male,Neurology,2025-09-07,2025-09-08,Gastritis,2995,Dr. Priya Sharma,1,Credit Card,1.0
+P10591,Kavya Gupta,89,Female,Neurology,2025-08-07,2025-08-18,Skin Allergy,33017,Dr. Anil Kumar,11,Cash,1.0
+P10592,Kiran Nair,49,Female,Cardiology,2025-10-20,2025-10-25,Asthma,16428,Dr. Anil Kumar,5,Cash,1.0
+P10593,Kiran Rao,81,Male,ENT,2024-06-24,2024-06-30,Arthritis,10594,Dr. Anil Kumar,6,UPI,4.0
+P10594,Pooja Verma,50,Male,Pediatrics,2025-12-16,2025-12-17,Arthritis,1500,Dr. Neha Singh,1,Insurance,2.0
+P10595,Ananya Joshi,32,Female,Oncology,2024-08-22,2024-09-01,Heart Disease,53498,Dr. S. Reddy,10,UPI,2.0
+P10596,Vikram Rao,64,Female,Dermatology,2025-08-08,2025-08-11,Fracture,1500,Dr. Kavitha Naidu,3,UPI,1.0
+P10597,Meera Gupta,40,Male,Neurology,2025-02-26,2025-03-08,Fracture,31515,Dr. Neha Singh,10,UPI,5.0
+P10598,Rahul Yadav,25,Male,Neurology,2025-07-23,2025-08-03,Pneumonia,33257,Dr. Neha Singh,11,Insurance,3.0
+P10599,Meera Nair,43,Male,Oncology,2025-04-03,2025-04-15,Gastritis,45404,Dr. S. Reddy,12,UPI,4.0
+P10600,Priya Mishra,60,Female,Orthopedics,2025-04-14,2025-04-24,Skin Allergy,29525,Dr. Meera Rao,10,Insurance,4.0
+P10601,Diya Singh,34,Female,ENT,2025-03-25,2025-03-30,Migraine,5361,Dr. Meera Rao,5,Insurance,1.0
+P10602,Diya Yadav,63,Male,Neurology,2025-07-22,2025-08-02,Diabetes,25795,Dr. Anil Kumar,11,Cash,5.0
+P10603,Kavya Sharma,88,Female,General Medicine,2025-06-23,2025-07-05,Arthritis,18445,Dr. Arjun Patel,12,Insurance,3.0
+P10604,Aarav Gupta,37,Female,Oncology,2024-04-08,2024-04-13,Arthritis,35045,Dr. Rahul Verma,5,Debit Card,4.0
+P10605,Sanjay Gupta,27,Female,Neurology,2025-08-26,2025-08-28,Pneumonia,13075,Dr. S. Reddy,2,UPI,2.0
+P10606,Priya Nair,36,Male,Orthopedics,2025-01-26,2025-02-08,Fracture,37807,Dr. Rahul Verma,13,Insurance,5.0
+P10607,Meera Mishra,75,Male,ENT,2024-08-23,2024-08-26,Skin Allergy,3677,Dr. Kavitha Naidu,3,UPI,5.0
+P10608,Kavya Iyer,16,Male,Orthopedics,2025-01-10,2025-01-19,Skin Allergy,30406,Dr. Anil Kumar,9,Cash,3.0
+P10609,Manoj Das,87,Male,Pediatrics,2025-12-06,2025-12-10,Gastritis,10168,Dr. Kavitha Naidu,4,UPI,1.0
+P10610,Vivaan Naidu,37,Male,Pediatrics,2025-09-18,2025-09-20,Viral Fever,5739,Dr. Arjun Patel,2,UPI,5.0
+P10611,Aditya Gupta,75,Male,Orthopedics,2025-08-31,2025-09-11,Migraine,27109,Dr. Kavitha Naidu,11,Credit Card,5.0
+P10612,Aditya Gupta,71,Male,Dermatology,2024-12-03,2024-12-06,Pneumonia,3281,Dr. Rahul Verma,3,Insurance,3.0
+P10613,Kiran Reddy,70,Female,Dermatology,2025-07-26,2025-08-05,Hypertension,10615,Dr. Anil Kumar,10,Insurance,3.0
+P10614,Aditya Gupta,81,Male,Orthopedics,2024-10-08,2024-10-18,Fracture,20906,Dr. Kavitha Naidu,10,Cash,2.0
+P10615,Vivaan Joshi,17,Female,Oncology,2025-05-15,2025-05-16,Asthma,8285,Dr. Arjun Patel,1,Debit Card,1.0
+P10616,Manoj Iyer,53,Male,Neurology,2025-04-11,2025-04-14,Asthma,19783,Dr. Meera Rao,3,Credit Card,5.0
+P10617,Arjun Nair,9,Female,Cardiology,2024-07-01,2024-07-13,Hypertension,46425,Dr. Rahul Verma,12,Cash,3.0
+P10618,Kavya Singh,27,Male,General Medicine,2024-07-13,2024-07-21,Heart Disease,14087,Dr. Rahul Verma,8,Insurance,2.0
+P10619,Aarav Gupta,4,Female,ENT,2024-02-14,2024-02-16,Migraine,2707,Dr. Anil Kumar,2,UPI,4.0
+P10620,Manoj Reddy,61,Female,Cardiology,2024-04-12,2024-04-26,Viral Fever,50030,Dr. S. Reddy,14,Insurance,1.0
+P10621,Vivaan Singh,55,Male,Neurology,2024-11-12,2024-11-16,Asthma,14508,Dr. Arjun Patel,4,UPI,1.0
+P10622,Meera Gupta,66,Female,General Medicine,2024-12-14,2024-12-15,Asthma,1500,Dr. Neha Singh,1,UPI,2.0
+P10623,Diya Patel,16,Male,Oncology,2024-04-30,2024-05-13,Skin Allergy,58253,Dr. S. Reddy,13,Insurance,3.0
+P10624,Vivaan Reddy,30,Female,Cardiology,2024-10-31,2024-11-01,Gastritis,9982,Dr. Meera Rao,1,Insurance,2.0
+P10625,Vivaan Iyer,61,Male,Pediatrics,2025-03-17,2025-03-25,Skin Allergy,15874,Dr. Neha Singh,8,Cash,1.0
+P10626,Manoj Naidu,74,Male,Dermatology,2024-06-18,2024-07-02,Pneumonia,12612,Dr. Priya Sharma,14,Insurance,2.0
+P10627,Vivaan Naidu,79,Male,Orthopedics,2024-09-03,2024-09-12,Migraine,28994,Dr. S. Reddy,9,UPI,2.0
+P10628,Vikram Patel,7,Female,Neurology,2024-09-25,2024-10-04,Asthma,28410,Dr. Anil Kumar,9,UPI,3.0
+P10629,Isha Verma,36,Male,Neurology,2025-01-03,2025-01-09,Viral Fever,20722,Dr. Priya Sharma,6,Insurance,3.0
+P10630,Kiran Naidu,1,Female,Pediatrics,2024-09-24,2024-09-26,Pneumonia,4230,Dr. Kavitha Naidu,2,Cash,5.0
+P10631,Isha Gupta,73,Male,Pediatrics,2025-06-21,2025-06-30,Asthma,16627,Dr. S. Reddy,9,Insurance,5.0
+P10632,Rahul Verma,11,Male,ENT,2024-08-27,2024-09-09,Diabetes,15738,Dr. Neha Singh,13,Insurance,2.0
+P10633,Vivaan Reddy,74,Male,General Medicine,2024-11-12,2024-11-14,Arthritis,5563,Dr. Neha Singh,2,UPI,5.0
+P10634,Diya Mishra,14,Female,Dermatology,2024-10-04,2024-10-17,Gastritis,13433,Dr. Neha Singh,13,UPI,3.0
+P10635,Aarav Kumar,2,Female,ENT,2024-05-13,2024-05-19,Viral Fever,8248,Dr. Kavitha Naidu,6,UPI,1.0
+P10636,Neha Naidu,79,Male,Pediatrics,2025-05-15,2025-05-23,Skin Allergy,10933,Dr. Kavitha Naidu,8,Insurance,2.0
+P10637,Sai Patel,40,Female,Pediatrics,2024-06-20,2024-06-23,Heart Disease,9635,Dr. Rahul Verma,3,Cash,4.0
+P10638,Neha Gupta,38,Male,ENT,2024-08-04,2024-08-13,Skin Allergy,11589,Dr. Neha Singh,9,Cash,5.0
+P10639,Kavya Rao,58,Male,Orthopedics,2025-08-01,2025-08-04,Diabetes,11194,Dr. Anil Kumar,3,Debit Card,2.0
+P10640,Meera Joshi,25,Female,Dermatology,2025-11-23,2025-11-27,Skin Allergy,1748,Dr. Kavitha Naidu,4,Credit Card,1.0
+P10641,Kiran Singh,62,Male,Dermatology,2025-05-04,2025-05-15,Pneumonia,9848,Dr. Priya Sharma,11,Debit Card,1.0
+P10642,Arjun Das,39,Male,Cardiology,2025-10-30,2025-10-31,Asthma,9838,Dr. S. Reddy,1,Insurance,1.0
+P10643,Aarav Patel,25,Female,Pediatrics,2025-09-15,2025-09-22,Pneumonia,11842,Dr. S. Reddy,7,Cash,4.0
+P10644,Rahul Reddy,36,Male,Neurology,2024-12-17,2024-12-26,Migraine,20226,Dr. Rahul Verma,9,UPI,3.0
+P10645,Vikram Naidu,1,Female,Neurology,2025-07-16,2025-07-18,Skin Allergy,11051,Dr. Arjun Patel,2,Cash,3.0
+P10646,Ananya Verma,27,Female,Pediatrics,2024-08-27,2024-09-01,Arthritis,6781,Dr. Anil Kumar,5,Credit Card,4.0
+P10647,Kavya Naidu,53,Female,Orthopedics,2024-12-02,2024-12-07,Heart Disease,19532,Dr. Rahul Verma,5,Cash,5.0
+P10648,Pooja Yadav,13,Female,Oncology,2025-01-25,2025-02-04,Heart Disease,49385,Dr. Priya Sharma,10,Debit Card,4.0
+P10649,Sai Iyer,11,Female,ENT,2025-12-02,2025-12-16,Asthma,17143,Dr. Anil Kumar,14,Insurance,1.0
+P10650,Kiran Yadav,59,Male,Oncology,2025-09-11,2025-09-23,Gastritis,68252,Dr. Meera Rao,12,Debit Card,3.0
+P10651,Rohan Rao,39,Female,Orthopedics,2024-12-23,2024-12-26,Viral Fever,4881,Dr. Rahul Verma,3,Cash,5.0
+P10652,Rahul Nair,13,Female,Orthopedics,2025-04-21,2025-04-22,Asthma,1500,Dr. Priya Sharma,1,Cash,4.0
+P10653,Aditya Verma,67,Female,Orthopedics,2024-05-27,2024-05-28,Gastritis,2029,Dr. Meera Rao,1,Cash,2.0
+P10654,Kiran Das,70,Male,Cardiology,2025-08-10,2025-08-19,Gastritis,36568,Dr. Neha Singh,9,Insurance,2.0
+P10655,Priya Yadav,4,Female,ENT,2025-02-07,2025-02-10,Skin Allergy,1500,Dr. S. Reddy,3,Debit Card,5.0
+P10656,Divya Das,18,Female,Pediatrics,2025-01-23,2025-01-27,Anemia,2663,Dr. Neha Singh,4,UPI,1.0
+P10657,Neha Mishra,33,Male,Neurology,2025-07-13,2025-07-25,Arthritis,42090,Dr. Arjun Patel,12,Debit Card,3.0
+P10658,Arjun Iyer,66,Female,Oncology,2025-04-07,2025-04-20,Heart Disease,60779,Dr. S. Reddy,13,Debit Card,1.0
+P10659,Manoj Kumar,7,Male,Pediatrics,2024-02-22,2024-03-05,Diabetes,18321,Dr. Rahul Verma,12,Credit Card,5.0
+P10660,Pooja Iyer,72,Male,Cardiology,2024-07-29,2024-08-02,Anemia,5041,Dr. Kavitha Naidu,4,Cash,1.0
+P10661,Kiran Gupta,29,Female,Neurology,2024-05-09,2024-05-18,Pneumonia,25758,Dr. Meera Rao,9,UPI,1.0
+P10662,Isha Mishra,12,Male,General Medicine,2025-06-20,2025-06-29,Asthma,12585,Dr. Meera Rao,9,Insurance,2.0
+P10663,Vikram Joshi,77,Male,Oncology,2024-01-26,2024-01-29,Anemia,21512,Dr. S. Reddy,3,UPI,2.0
+P10664,Neha Kumar,8,Male,Neurology,2024-05-27,2024-06-04,Migraine,22144,Dr. Priya Sharma,8,Cash,3.0
+P10665,Divya Sharma,12,Male,ENT,2025-03-12,2025-03-20,Skin Allergy,12384,Dr. Anil Kumar,8,Credit Card,2.0
+P10666,Arjun Kumar,85,Female,Oncology,2025-05-22,2025-05-28,Asthma,25208,Dr. S. Reddy,6,Cash,2.0
+P10667,Divya Gupta,47,Female,Oncology,2025-01-02,2025-01-13,Pneumonia,50218,Dr. Arjun Patel,11,Cash,3.0
+P10668,Sai Kumar,42,Female,Neurology,2025-09-20,2025-09-30,Migraine,38887,Dr. Priya Sharma,10,Insurance,3.0
+P10669,Diya Iyer,62,Male,Cardiology,2025-11-01,2025-11-09,Asthma,29865,Dr. Priya Sharma,8,Cash,5.0
+P10670,Vikram Verma,57,Female,ENT,2024-04-06,2024-04-17,Heart Disease,12272,Dr. S. Reddy,11,Cash,3.0
+P10671,Kavya Joshi,55,Female,Orthopedics,2025-11-26,2025-12-07,Diabetes,30191,Dr. Rahul Verma,11,Insurance,3.0
+P10672,Divya Rao,3,Female,General Medicine,2025-03-24,2025-04-01,Viral Fever,13852,Dr. Priya Sharma,8,Insurance,4.0
+P10673,Vikram Gupta,50,Male,Dermatology,2025-04-09,2025-04-13,Skin Allergy,6052,Dr. Priya Sharma,4,Credit Card,1.0
+P10674,Divya Kumar,25,Male,Cardiology,2024-03-10,2024-03-21,Asthma,35483,Dr. Anil Kumar,11,Insurance,4.0
+P10675,Vivaan Mishra,72,Female,Oncology,2025-03-29,2025-04-09,Viral Fever,54702,Dr. S. Reddy,11,UPI,5.0
+P10676,Neha Sharma,45,Female,ENT,2025-06-13,2025-06-27,Pneumonia,16951,Dr. Priya Sharma,14,Insurance,2.0
+P10677,Pooja Kumar,12,Male,Dermatology,2025-02-27,2025-03-02,Diabetes,1619,Dr. Arjun Patel,3,Credit Card,1.0
+P10678,Neha Patel,79,Female,Pediatrics,2024-03-02,2024-03-08,Arthritis,9475,Dr. Neha Singh,6,Insurance,2.0
+P10679,Vivaan Joshi,26,Male,ENT,2025-01-16,2025-01-29,Heart Disease,15608,Dr. S. Reddy,13,Cash,2.0
+P10680,Sanjay Kumar,25,Male,General Medicine,2025-11-14,2025-11-22,Viral Fever,13434,Dr. Anil Kumar,8,Cash,3.0
+P10681,Vivaan Das,84,Female,Dermatology,2025-06-12,2025-06-26,Asthma,15690,Dr. Anil Kumar,14,Credit Card,5.0
+P10682,Aarav Nair,69,Female,Oncology,2024-04-10,2024-04-11,Diabetes,2695,Dr. S. Reddy,1,Cash,3.0
+P10683,Divya Nair,77,Male,Dermatology,2025-12-01,2025-12-02,Heart Disease,1500,Dr. Meera Rao,1,Cash,1.0
+P10684,Sai Sharma,59,Female,Orthopedics,2025-11-30,2025-12-12,Skin Allergy,36204,Dr. Rahul Verma,12,Insurance,2.0
+P10685,Neha Reddy,82,Female,Cardiology,2024-05-03,2024-05-09,Skin Allergy,18650,Dr. S. Reddy,6,Cash,4.0
+P10686,Meera Naidu,11,Male,Neurology,2025-08-07,2025-08-15,Pneumonia,28237,Dr. S. Reddy,8,Cash,2.0
+P10687,Rahul Patel,54,Female,General Medicine,2024-10-23,2024-10-29,Arthritis,8227,Dr. S. Reddy,6,Credit Card,3.0
+P10688,Manoj Iyer,27,Female,General Medicine,2025-03-09,2025-03-15,Asthma,6499,Dr. Rahul Verma,6,Cash,4.0
+P10689,Sai Singh,36,Female,General Medicine,2024-11-20,2024-12-04,Fracture,17724,Dr. Kavitha Naidu,14,,2.0
+P10690,Vivaan Naidu,22,Female,Pediatrics,2025-07-25,2025-07-27,Fracture,6441,Dr. Anil Kumar,2,Cash,4.0
+P10691,Rohan Kumar,19,Female,Oncology,2025-12-28,2026-01-08,Pneumonia,53905,Dr. Meera Rao,11,Insurance,2.0
+P10692,Priya Verma,40,Male,ENT,2025-08-03,2025-08-16,Viral Fever,18355,Dr. Kavitha Naidu,13,Insurance,1.0
+P10693,Vivaan Sharma,82,Male,Orthopedics,2025-11-10,2025-11-20,Diabetes,25986,Dr. Kavitha Naidu,10,Insurance,2.0
+P10694,Vivaan Iyer,57,Female,Dermatology,2025-11-21,2025-11-27,Gastritis,6407,Dr. Rahul Verma,6,Cash,3.0
+P10695,Kiran Kumar,32,Female,General Medicine,2024-03-06,2024-03-09,Asthma,8889,Dr. Rahul Verma,3,UPI,1.0
+P10696,Arjun Yadav,39,Male,General Medicine,2024-07-03,2024-07-13,Skin Allergy,11927,Dr. Kavitha Naidu,10,UPI,5.0
+P10697,Rohan Iyer,48,Male,Neurology,2025-06-10,2025-06-17,Migraine,13897,Dr. Meera Rao,7,Cash,3.0
+P10698,Isha Sharma,22,Female,Oncology,2025-03-06,2025-03-09,Hypertension,24006,Dr. Rahul Verma,3,Insurance,1.0
+P10699,Kiran Reddy,47,Male,ENT,2024-02-06,2024-02-12,Migraine,5810,Dr. S. Reddy,6,UPI,5.0
+P10700,Rahul Singh,62,Male,Dermatology,2024-03-10,2024-03-24,Heart Disease,13971,Dr. Meera Rao,14,Insurance,5.0
+P10701,Isha Sharma,22,Female,ENT,2025-01-14,2025-01-18,Migraine,3815,Dr. Anil Kumar,4,Cash,1.0
+P10702,Sanjay Patel,53,Female,ENT,2025-03-25,2025-03-28,Gastritis,4050,Dr. S. Reddy,3,UPI,1.0
+P10703,Priya Mishra,64,Female,Orthopedics,2024-05-02,2024-05-12,Skin Allergy,24273,Dr. Priya Sharma,10,Cash,2.0
+P10704,Rahul Das,47,Female,General Medicine,2024-05-05,2024-05-08,Migraine,3847,Dr. Priya Sharma,3,Insurance,3.0
+P10705,Pooja Sharma,26,Male,Pediatrics,2024-04-04,2024-04-17,Arthritis,21807,Dr. Meera Rao,13,Insurance,4.0
+P10706,Vikram Verma,50,Female,ENT,2025-02-16,2025-03-01,Fracture,13906,Dr. Rahul Verma,13,Credit Card,3.0
+P10707,Diya Patel,71,Male,Cardiology,2024-01-06,2024-01-20,Pneumonia,46871,Dr. Neha Singh,14,Insurance,4.0
+P10708,Rahul Yadav,20,Male,Pediatrics,2025-02-21,2025-03-06,Migraine,20021,Dr. Anil Kumar,13,Credit Card,1.0
+P10709,Neha Reddy,52,Female,ENT,2024-12-13,2024-12-17,Gastritis,2399,Dr. Neha Singh,4,Cash,4.0
+P10710,Isha Iyer,61,Female,Orthopedics,2024-12-06,2024-12-09,Skin Allergy,6743,Dr. S. Reddy,3,Insurance,5.0
+P10711,Ananya Nair,29,Female,Oncology,2025-05-10,2025-05-15,Migraine,25831,Dr. Kavitha Naidu,5,Insurance,3.0
+P10712,Rahul Kumar,35,Male,Pediatrics,2025-01-16,2025-01-23,Migraine,10305,Dr. Kavitha Naidu,7,UPI,3.0
+P10713,Priya Sharma,80,Female,ENT,2025-06-15,2025-06-28,Anemia,15144,Dr. Neha Singh,13,Cash,2.0
+P10714,Isha Singh,33,Female,ENT,2025-07-11,2025-07-22,Asthma,13166,Dr. Anil Kumar,11,UPI,5.0
+P10715,Sanjay Mishra,54,Female,Orthopedics,2025-11-02,2025-11-12,Viral Fever,25429,Dr. Neha Singh,10,Cash,1.0
+P10716,Isha Verma,14,Female,Dermatology,2025-08-06,2025-08-19,Gastritis,13967,Dr. Anil Kumar,13,Insurance,2.0
+P10717,Kavya Das,83,Male,Orthopedics,2025-01-12,2025-01-22,Diabetes,33629,Dr. Neha Singh,10,Cash,1.0
+P10718,Kavya Nair,54,Female,General Medicine,2024-12-25,2024-12-31,Skin Allergy,7489,Dr. Kavitha Naidu,6,Cash,5.0
+P10719,Vikram Joshi,68,Female,General Medicine,2024-06-21,2024-06-27,Pneumonia,9350,,6,Cash,3.0
+P10720,Aditya Gupta,54,Female,Oncology,2025-03-13,2025-03-21,Arthritis,38322,Dr. Meera Rao,8,UPI,5.0
+P10721,Isha Gupta,32,Female,Cardiology,2024-04-11,2024-04-13,Asthma,9042,Dr. Anil Kumar,2,UPI,4.0
+P10722,Meera Iyer,31,Female,Neurology,2025-11-10,2025-11-21,Anemia,42214,Dr. Arjun Patel,11,UPI,3.0
+P10723,Diya Patel,63,Male,Dermatology,2025-09-08,2025-09-18,Arthritis,10712,Dr. Kavitha Naidu,10,Credit Card,3.0
+P10724,Isha Joshi,77,Male,General Medicine,2024-03-28,2024-04-08,Fracture,11924,Dr. Neha Singh,11,Cash,2.0
+P10725,Kiran Reddy,12,Female,Pediatrics,2025-07-27,2025-08-04,Fracture,13816,Dr. Kavitha Naidu,8,Credit Card,3.0
+P10726,Vikram Sharma,76,Female,Cardiology,2024-03-26,2024-04-06,Skin Allergy,45813,Dr. Neha Singh,11,Insurance,4.0
+P10727,Kavya Joshi,74,Female,Orthopedics,2025-06-10,2025-06-24,Viral Fever,38331,Dr. Neha Singh,14,UPI,5.0
+P10728,Rohan Singh,10,Male,ENT,2024-03-05,2024-03-13,Migraine,11272,Dr. Meera Rao,8,UPI,3.0
+P10729,Rohan Sharma,10,Male,Cardiology,2024-12-22,2024-12-29,Diabetes,21721,Dr. Kavitha Naidu,7,Insurance,5.0
+P10730,Arjun Sharma,62,Female,Pediatrics,2025-04-25,2025-04-27,Diabetes,1500,Dr. S. Reddy,2,UPI,5.0
+P10731,Isha Gupta,76,Female,ENT,2025-06-16,2025-06-27,Heart Disease,13437,Dr. Arjun Patel,11,UPI,3.0
+P10732,Aarav Joshi,36,Male,Cardiology,2024-11-01,2024-11-14,Heart Disease,37947,Dr. Rahul Verma,13,Cash,3.0
+P10733,Neha Kumar,58,Female,Dermatology,2025-11-03,2025-11-13,Pneumonia,9664,Dr. Meera Rao,10,UPI,1.0
+P10734,Sanjay Reddy,89,Male,Orthopedics,2025-07-19,2025-08-01,Fracture,41444,Dr. Kavitha Naidu,13,Insurance,2.0
+P10735,Priya Naidu,29,Male,ENT,2024-06-01,2024-06-14,Asthma,12391,Dr. S. Reddy,13,Insurance,5.0
+P10736,Meera Yadav,21,Male,Dermatology,2025-05-04,2025-05-16,Diabetes,10208,Dr. Rahul Verma,12,Cash,1.0
+P10737,Divya Rao,89,Male,ENT,2025-06-17,2025-06-25,Viral Fever,7866,Dr. Meera Rao,8,Credit Card,2.0
+P10738,Priya Yadav,25,Male,Neurology,2024-08-31,2024-09-02,Arthritis,6116,Dr. S. Reddy,2,Cash,4.0
+P10739,Rahul Mishra,43,Female,General Medicine,2025-06-22,2025-06-23,Heart Disease,1500,Dr. Neha Singh,1,Debit Card,2.0
+P10740,Diya Rao,40,Female,Dermatology,2025-10-17,2025-10-20,Migraine,4958,Dr. Anil Kumar,3,Insurance,5.0
+P10741,Meera Joshi,47,Female,Orthopedics,2025-08-19,2025-08-26,Fracture,23341,Dr. Arjun Patel,7,Insurance,4.0
+P10742,Divya Iyer,24,Male,Neurology,2025-07-10,2025-07-21,Diabetes,37418,Dr. Priya Sharma,11,Credit Card,1.0
+P10743,Rahul Gupta,61,Male,Cardiology,2025-04-08,2025-04-15,Pneumonia,25933,Dr. Priya Sharma,7,Insurance,2.0
+P10744,Kiran Naidu,62,Male,ENT,2024-07-16,2024-07-17,Arthritis,1860,Dr. Priya Sharma,1,UPI,4.0
+P10745,Isha Joshi,18,Female,Dermatology,2025-08-03,2025-08-06,Hypertension,1793,Dr. Anil Kumar,3,Cash,5.0
+P10746,Priya Nair,43,Male,General Medicine,2024-09-22,2024-10-06,Anemia,21280,Dr. Anil Kumar,14,Debit Card,5.0
+P10747,Aarav Nair,6,Female,Dermatology,2025-01-23,2025-02-06,Asthma,12443,Dr. Arjun Patel,14,UPI,5.0
+P10748,Meera Yadav,20,Female,General Medicine,2024-08-17,2024-08-23,Anemia,10037,Dr. Neha Singh,6,Insurance,1.0
+P10749,Isha Gupta,88,Female,Pediatrics,2024-08-16,2024-08-28,Asthma,21856,Dr. Rahul Verma,12,Insurance,4.0
+P10750,Aditya Joshi,46,Male,Pediatrics,2024-04-25,2024-05-06,Diabetes,18072,Dr. Anil Kumar,11,Insurance,1.0
+P10751,Rahul Joshi,56,Female,General Medicine,2025-12-02,2025-12-16,Hypertension,19254,Dr. Arjun Patel,14,Debit Card,1.0
+P10752,Vivaan Patel,80,Male,Neurology,2024-04-17,2024-04-30,Viral Fever,43393,Dr. Rahul Verma,13,UPI,4.0
+P10753,Pooja Reddy,64,Male,ENT,2024-03-03,2024-03-12,Viral Fever,5992,Dr. Rahul Verma,9,Cash,3.0
+P10754,Meera Naidu,71,Female,Oncology,2025-11-14,2025-11-20,Anemia,32115,Dr. Neha Singh,6,Insurance,4.0
+P10755,Divya Joshi,64,Female,Orthopedics,2025-02-09,2025-02-18,Skin Allergy,24755,Dr. Meera Rao,9,UPI,5.0
+P10756,Pooja Rao,45,Female,General Medicine,2024-11-15,2024-11-20,Diabetes,6900,Dr. S. Reddy,5,Insurance,1.0
+P10757,Priya Iyer,57,Male,Neurology,2025-06-22,2025-06-27,Migraine,19165,Dr. Arjun Patel,5,UPI,3.0
+P10758,Vikram Reddy,26,Female,ENT,2024-10-06,2024-10-15,Fracture,10674,Dr. Rahul Verma,9,UPI,5.0
+P10759,Vikram Singh,80,Female,ENT,2024-04-03,2024-04-11,Diabetes,7684,Dr. Kavitha Naidu,8,Insurance,3.0
+P10760,Aditya Das,17,Male,ENT,2025-06-16,2025-06-25,Hypertension,10562,Dr. Kavitha Naidu,9,Cash,3.0
+P10761,Manoj Kumar,79,Female,Orthopedics,2024-05-08,2024-05-14,Hypertension,17064,Dr. Arjun Patel,6,Insurance,3.0
+P10762,Aarav Mishra,79,Male,Neurology,2025-02-07,2025-02-13,Viral Fever,19714,Dr. S. Reddy,6,Cash,5.0
+P10763,Divya Sharma,13,Female,Neurology,2025-11-23,2025-11-24,Diabetes,3925,Dr. Anil Kumar,1,Debit Card,1.0
+P10764,Divya Mishra,64,Female,Cardiology,2025-11-14,2025-11-23,Fracture,37638,Dr. Meera Rao,9,UPI,5.0
+P10765,Vikram Patel,89,Female,Cardiology,2024-09-20,2024-09-29,Diabetes,26926,Dr. Kavitha Naidu,9,UPI,5.0
+P10766,Priya Yadav,51,Female,Cardiology,2025-07-23,2025-08-06,Gastritis,51285,Dr. Arjun Patel,14,Cash,5.0
+P10767,Divya Das,31,Male,ENT,2025-03-23,2025-03-31,Arthritis,11767,Dr. S. Reddy,8,Insurance,3.0
+P10768,Arjun Kumar,79,Female,Cardiology,2024-12-15,2024-12-22,Heart Disease,16457,Dr. Kavitha Naidu,7,UPI,
+P10769,Rohan Reddy,46,Female,Cardiology,2024-04-12,2024-04-13,Diabetes,4505,Dr. Arjun Patel,1,Cash,2.0
+P10770,Arjun Kumar,11,Male,Oncology,2024-10-01,2024-10-04,Fracture,10902,Dr. Arjun Patel,3,Insurance,2.0
+P10771,Manoj Verma,23,Male,General Medicine,2025-04-20,2025-04-25,Asthma,6273,Dr. Arjun Patel,5,Cash,5.0
+P10772,Meera Joshi,61,Female,Dermatology,2025-12-21,2025-12-27,Arthritis,4733,Dr. Neha Singh,6,Credit Card,3.0
+P10773,Diya Naidu,41,Female,General Medicine,2024-01-04,2024-01-10,Diabetes,8067,Dr. Kavitha Naidu,6,UPI,4.0
+P10774,Sai Naidu,20,Female,ENT,2025-06-07,2025-06-13,Fracture,10293,Dr. S. Reddy,6,Insurance,1.0
+P10775,Arjun Verma,72,Female,General Medicine,2025-09-09,2025-09-20,Asthma,12921,Dr. Meera Rao,11,UPI,4.0
+P10776,Vikram Gupta,11,Female,General Medicine,2025-11-25,2025-11-27,Hypertension,1500,Dr. Kavitha Naidu,2,Cash,4.0
+P10777,Rohan Iyer,20,Male,Dermatology,2024-11-05,2024-11-10,Pneumonia,3177,Dr. Priya Sharma,5,Insurance,5.0
+P10778,Sanjay Gupta,42,Male,Pediatrics,2024-03-27,2024-03-30,Anemia,8669,Dr. Rahul Verma,3,Insurance,1.0
+P10779,Rohan Iyer,4,Female,Orthopedics,2024-07-16,2024-07-21,Viral Fever,12187,Dr. Rahul Verma,5,UPI,3.0
+P10780,Arjun Yadav,35,Female,Pediatrics,2025-09-12,2025-09-22,Asthma,15942,Dr. Kavitha Naidu,10,Cash,3.0
+P10781,Kiran Singh,81,Female,Neurology,2025-10-02,2025-10-03,Asthma,1500,Dr. Meera Rao,1,Cash,3.0
+P10782,Rahul Reddy,84,Male,Oncology,2025-04-10,2025-04-15,Heart Disease,18389,Dr. Kavitha Naidu,5,Insurance,1.0
+P10783,Sai Kumar,78,Female,Orthopedics,2024-03-30,2024-03-31,Viral Fever,1878,Dr. Anil Kumar,1,UPI,3.0
+P10784,Ananya Verma,29,Female,Neurology,2024-03-30,2024-04-13,Viral Fever,55812,,14,UPI,2.0
+P10785,Arjun Singh,6,Female,Orthopedics,2024-12-15,2024-12-26,Heart Disease,36256,Dr. Arjun Patel,11,Insurance,4.0
+P10786,Manoj Yadav,73,Male,Oncology,2025-03-05,2025-03-09,Diabetes,14029,Dr. Neha Singh,4,Debit Card,2.0
+P10787,Aarav Das,34,Female,Orthopedics,2024-01-24,2024-01-27,Diabetes,10938,Dr. Neha Singh,3,Insurance,3.0
+P10788,Aarav Gupta,67,Female,Dermatology,2025-05-15,2025-05-17,Asthma,1500,Dr. S. Reddy,2,Insurance,4.0
+P10789,Pooja Nair,11,Male,Oncology,2025-02-01,2025-02-08,Migraine,22565,Dr. Anil Kumar,7,Credit Card,1.0
+P10790,Sai Patel,60,Female,Cardiology,2024-01-09,2024-01-20,Fracture,44738,Dr. Kavitha Naidu,11,UPI,4.0
+P10791,Manoj Joshi,53,Female,Dermatology,2024-03-10,2024-03-19,Diabetes,10624,Dr. Anil Kumar,9,Insurance,4.0
+P10792,Rohan Reddy,82,Female,Orthopedics,2024-11-27,2024-12-10,Skin Allergy,40500,Dr. S. Reddy,13,Cash,1.0
+P10793,Diya Das,10,Female,Neurology,2025-06-11,2025-06-16,Arthritis,13895,Dr. Kavitha Naidu,5,Insurance,1.0
+P10794,Diya Yadav,37,Male,Dermatology,2025-08-25,2025-08-29,Gastritis,3766,Dr. Rahul Verma,4,Cash,5.0
+P10795,Sanjay Nair,89,Male,ENT,2024-11-10,2024-11-17,Diabetes,9659,Dr. Rahul Verma,7,Credit Card,2.0
+P10796,Aarav Joshi,35,Male,Orthopedics,2024-08-03,2024-08-06,Pneumonia,9934,Dr. Arjun Patel,3,Debit Card,5.0
+P10797,Manoj Singh,59,Male,General Medicine,2025-12-07,2025-12-21,Arthritis,18828,Dr. Priya Sharma,14,Cash,3.0
+P10798,Priya Joshi,15,Female,Orthopedics,2024-11-30,2024-12-03,Viral Fever,2053,Dr. Arjun Patel,3,Credit Card,2.0
+P10799,Divya Verma,65,Female,General Medicine,2024-08-18,2024-08-25,Gastritis,10023,Dr. Rahul Verma,7,Credit Card,2.0
+P10800,Aarav Das,25,Female,General Medicine,2024-11-18,2024-11-26,Gastritis,13314,Dr. Meera Rao,8,Insurance,4.0
+P10801,Neha Reddy,51,Male,General Medicine,2024-01-09,2024-01-10,Pneumonia,1500,Dr. Meera Rao,1,Insurance,1.0
+P10802,Sanjay Patel,79,Male,General Medicine,2024-08-08,2024-08-15,Anemia,11051,Dr. Rahul Verma,7,,3.0
+P10803,Pooja Verma,59,Male,Cardiology,2025-01-11,2025-01-18,Migraine,26870,Dr. Rahul Verma,7,Insurance,2.0
+P10804,Kiran Reddy,43,Female,Dermatology,2025-11-01,2025-11-05,Hypertension,5050,Dr. S. Reddy,4,UPI,1.0
+P10805,Aarav Nair,17,Male,General Medicine,2025-06-22,2025-06-24,Skin Allergy,4509,Dr. Priya Sharma,2,Insurance,2.0
+P10806,Ananya Joshi,31,Female,Dermatology,2025-07-24,2025-07-25,Hypertension,1500,Dr. Priya Sharma,1,UPI,3.0
+P10807,Sai Mishra,76,Female,Cardiology,2025-02-01,2025-02-02,Migraine,1500,Dr. S. Reddy,1,Insurance,4.0
+P10808,Divya Kumar,20,Female,Pediatrics,2024-03-21,2024-03-28,Diabetes,10004,Dr. S. Reddy,7,Debit Card,1.0
+P10809,Kavya Yadav,59,Male,Pediatrics,2024-10-12,2024-10-14,Fracture,5191,Dr. Rahul Verma,2,UPI,5.0
+P10810,Kiran Kumar,44,Male,Cardiology,2025-12-28,2026-01-11,Pneumonia,47668,Dr. Neha Singh,14,Insurance,5.0
+P10811,Pooja Gupta,29,Female,Neurology,2024-02-02,2024-02-06,Diabetes,9690,Dr. Anil Kumar,4,UPI,4.0
+P10812,Aarav Joshi,64,Female,Pediatrics,2025-10-03,2025-10-13,Asthma,11920,Dr. S. Reddy,10,Credit Card,5.0
+P10813,Neha Kumar,33,Male,Dermatology,2025-05-14,2025-05-24,Heart Disease,12453,Dr. Anil Kumar,10,Insurance,3.0
+P10814,Rohan Reddy,26,Female,Neurology,2024-07-26,2024-08-02,Diabetes,26099,Dr. Neha Singh,7,Insurance,5.0
+P10815,Vikram Reddy,48,Female,Oncology,2025-07-21,2025-08-03,Heart Disease,70389,Dr. Kavitha Naidu,13,UPI,4.0
+P10816,Manoj Gupta,68,Male,General Medicine,2025-09-02,2025-09-04,Pneumonia,4696,Dr. Priya Sharma,2,UPI,3.0
+P10817,Priya Joshi,77,Male,Dermatology,2024-02-01,2024-02-05,Arthritis,4807,Dr. Meera Rao,4,Insurance,1.0
+P10818,Pooja Kumar,57,Male,Pediatrics,2024-03-18,2024-03-22,Asthma,5852,Dr. Kavitha Naidu,4,UPI,3.0
+P10819,Aarav Kumar,59,Male,Pediatrics,2025-04-30,2025-05-02,Migraine,2833,Dr. Neha Singh,2,Insurance,5.0
+P10820,Neha Verma,71,Male,General Medicine,2025-12-30,2026-01-04,Diabetes,6161,Dr. Rahul Verma,5,Insurance,5.0
+P10821,Vivaan Patel,24,Female,ENT,2024-01-18,2024-01-23,Arthritis,10426,Dr. S. Reddy,5,Credit Card,3.0
+P10822,Meera Iyer,23,Male,Pediatrics,2025-04-30,2025-05-11,Skin Allergy,18845,Dr. Kavitha Naidu,11,Insurance,2.0
+P10823,Kiran Yadav,44,Female,General Medicine,2024-04-09,2024-04-14,Viral Fever,6090,Dr. Kavitha Naidu,5,Insurance,4.0
+P10824,Vikram Nair,57,Female,General Medicine,2025-04-19,2025-05-02,Arthritis,19112,Dr. Kavitha Naidu,13,Cash,1.0
+P10825,Isha Mishra,58,Male,Dermatology,2025-03-31,2025-04-11,Arthritis,9584,Dr. Anil Kumar,11,Insurance,1.0
+P10826,Rahul Gupta,14,Male,Cardiology,2024-03-07,2024-03-20,Pneumonia,54382,Dr. Kavitha Naidu,13,Insurance,3.0
+P10827,Diya Joshi,70,Female,General Medicine,2025-05-11,2025-05-13,Diabetes,1504,Dr. Anil Kumar,2,UPI,5.0
+P10828,Priya Sharma,33,Female,Pediatrics,2025-10-16,2025-10-30,Viral Fever,23522,Dr. Neha Singh,14,Cash,2.0
+P10829,Vikram Kumar,79,Female,ENT,2025-09-22,2025-10-01,Skin Allergy,12590,Dr. Neha Singh,9,UPI,3.0
+P10830,Neha Das,65,Male,Pediatrics,2024-01-22,2024-02-05,Migraine,23261,Dr. Rahul Verma,14,Credit Card,2.0
+P10831,Priya Reddy,88,Male,Pediatrics,2024-06-28,2024-07-03,Skin Allergy,8211,Dr. Kavitha Naidu,5,Cash,3.0
+P10832,Isha Mishra,57,Male,ENT,2024-06-24,2024-07-08,Skin Allergy,16818,Dr. Anil Kumar,14,Insurance,1.0
+P10833,Sai Iyer,47,Female,Pediatrics,2024-11-26,2024-12-05,Fracture,14273,Dr. Arjun Patel,9,UPI,3.0
+P10834,Pooja Yadav,17,Female,Neurology,2024-04-14,2024-04-16,Viral Fever,3816,Dr. S. Reddy,2,Insurance,
+P10835,Meera Rao,36,Female,Neurology,2025-09-15,2025-09-21,Gastritis,17186,Dr. S. Reddy,6,Insurance,2.0
+P10836,Neha Gupta,77,Female,Cardiology,2025-07-21,2025-07-23,Asthma,14657,Dr. Kavitha Naidu,2,UPI,2.0
+P10837,Kavya Nair,35,Male,Cardiology,2025-08-13,2025-08-27,Gastritis,49852,Dr. Neha Singh,14,UPI,4.0
+P10838,Rahul Patel,5,Female,Pediatrics,2024-05-24,2024-05-29,Skin Allergy,6239,Dr. Meera Rao,5,Credit Card,1.0
+P10839,Manoj Verma,22,Male,Dermatology,2024-01-11,2024-01-15,Arthritis,3277,Dr. Rahul Verma,4,Insurance,1.0
+P10840,Divya Das,53,Female,Dermatology,2025-10-26,2025-11-03,Skin Allergy,9540,Dr. Rahul Verma,8,Insurance,1.0
+P10841,Pooja Yadav,56,Female,Cardiology,2024-07-29,2024-08-04,Anemia,25005,Dr. S. Reddy,6,Cash,5.0
+P10842,Vikram Nair,88,Female,General Medicine,2025-04-24,2025-04-26,Anemia,3898,Dr. Rahul Verma,2,UPI,2.0
+P10843,Priya Kumar,84,Male,Neurology,2025-10-25,2025-11-06,Skin Allergy,37246,Dr. Neha Singh,12,Cash,1.0
+P10844,Ananya Gupta,48,Female,ENT,2024-01-27,2024-02-08,Fracture,15363,Dr. Meera Rao,12,Insurance,5.0
+P10845,Manoj Verma,50,Female,Neurology,2024-01-04,2024-01-15,Hypertension,32316,Dr. Arjun Patel,11,Insurance,1.0
+P10846,Diya Sharma,72,Male,General Medicine,2024-01-04,2024-01-13,Diabetes,12091,Dr. Arjun Patel,9,Credit Card,2.0
+P10847,Rahul Naidu,5,Male,Orthopedics,2024-04-24,2024-04-30,Fracture,20601,Dr. Arjun Patel,6,UPI,1.0
+P10848,Aarav Rao,53,Female,General Medicine,2024-02-07,2024-02-15,Gastritis,12913,Dr. Kavitha Naidu,8,Insurance,4.0
+P10849,Pooja Kumar,43,Male,Pediatrics,2025-08-21,2025-08-29,Viral Fever,10600,Dr. Neha Singh,8,Insurance,4.0
+P10850,Diya Gupta,70,Male,Dermatology,2025-03-18,2025-03-21,Asthma,1802,Dr. Kavitha Naidu,3,Insurance,4.0
+P10851,Vivaan Sharma,72,Male,Neurology,2025-12-16,2025-12-18,Hypertension,6886,Dr. Neha Singh,2,Insurance,2.0
+P10852,Divya Verma,59,Male,ENT,2025-08-08,2025-08-12,Gastritis,7699,Dr. Kavitha Naidu,4,Cash,2.0
+P10853,Sai Sharma,59,Male,General Medicine,2025-12-04,2025-12-11,Pneumonia,6045,Dr. Arjun Patel,7,Insurance,5.0
+P10854,Diya Iyer,62,Female,Dermatology,2024-06-23,2024-06-26,Anemia,3389,Dr. Neha Singh,3,Credit Card,5.0
+P10855,Rahul Sharma,52,Male,Oncology,2024-07-29,2024-07-31,Diabetes,1500,Dr. Neha Singh,2,UPI,1.0
+P10856,Rahul Mishra,21,Female,ENT,2025-09-12,2025-09-24,Migraine,13334,Dr. Rahul Verma,12,Debit Card,4.0
+P10857,Sai Reddy,26,Male,Neurology,2024-06-27,2024-07-03,Hypertension,17567,Dr. Kavitha Naidu,6,Debit Card,5.0
+P10858,Vikram Gupta,67,Male,Orthopedics,2024-02-11,2024-02-20,Migraine,23551,Dr. Neha Singh,9,Insurance,3.0
+P10859,Manoj Rao,56,Male,Orthopedics,2025-05-03,2025-05-11,Heart Disease,20307,Dr. Meera Rao,8,Insurance,4.0
+P10860,Rohan Patel,22,Female,Orthopedics,2025-08-07,2025-08-18,Asthma,30828,Dr. Anil Kumar,11,Insurance,1.0
+P10861,Sai Gupta,79,Female,General Medicine,2025-12-07,2025-12-18,Asthma,14350,Dr. Neha Singh,11,UPI,1.0
+P10862,Aditya Joshi,88,Male,ENT,2025-11-08,2025-11-13,Migraine,3543,Dr. Kavitha Naidu,5,Insurance,1.0
+P10863,Meera Mishra,56,Male,ENT,2024-03-28,2024-04-09,Migraine,15710,Dr. Meera Rao,12,Cash,1.0
+P10864,Meera Rao,21,Male,General Medicine,2025-07-17,2025-07-23,Gastritis,9875,Dr. Kavitha Naidu,6,Insurance,5.0
+P10865,Meera Sharma,84,Male,General Medicine,2025-09-09,2025-09-21,Heart Disease,18452,Dr. Anil Kumar,12,Insurance,4.0
+P10866,Sanjay Iyer,22,Female,Oncology,2025-05-24,2025-05-30,Gastritis,19214,Dr. Meera Rao,6,UPI,4.0
+P10867,Aditya Verma,39,Male,ENT,2025-08-21,2025-08-23,Gastritis,2902,Dr. S. Reddy,2,Credit Card,2.0
+P10868,Meera Patel,77,Female,Neurology,2025-09-03,2025-09-14,Asthma,38228,Dr. S. Reddy,11,Cash,5.0
+P10869,Aditya Nair,47,Female,General Medicine,2024-11-21,2024-11-22,Diabetes,1500,Dr. Neha Singh,1,UPI,1.0
+P10870,Rohan Gupta,22,Female,Oncology,2024-01-30,2024-02-10,Gastritis,55064,Dr. Rahul Verma,11,Insurance,5.0
+P10871,Sai Das,8,Female,Orthopedics,2024-11-29,2024-11-30,Anemia,2344,Dr. Priya Sharma,1,Insurance,1.0
+P10872,Aarav Singh,33,Male,Pediatrics,2024-05-27,2024-05-30,Viral Fever,8926,Dr. S. Reddy,3,Cash,1.0
+P10873,Meera Naidu,60,Female,ENT,2024-03-24,2024-04-02,Diabetes,14033,Dr. Priya Sharma,9,Credit Card,1.0
+P10874,Kavya Sharma,64,Male,ENT,2024-04-01,2024-04-15,Gastritis,14003,Dr. Neha Singh,14,Credit Card,4.0
+P10875,Diya Nair,20,Female,ENT,2025-05-24,2025-05-30,Heart Disease,11389,Dr. S. Reddy,6,Insurance,2.0
+P10876,Kiran Sharma,15,Female,Oncology,2025-01-03,2025-01-05,Fracture,3593,Dr. S. Reddy,2,Debit Card,3.0
+P10877,Sanjay Nair,63,Male,Orthopedics,2025-01-29,2025-02-02,Diabetes,15044,Dr. S. Reddy,4,Insurance,3.0
+P10878,Neha Nair,15,Female,Orthopedics,2025-06-27,2025-07-10,Gastritis,40204,Dr. Priya Sharma,13,Cash,4.0
+P10879,Manoj Nair,6,Male,General Medicine,2025-02-04,2025-02-15,Migraine,13448,Dr. Arjun Patel,11,Credit Card,2.0
+P10880,Meera Reddy,44,Male,General Medicine,2025-04-04,2025-04-06,Gastritis,3766,Dr. Rahul Verma,2,Debit Card,1.0
+P10881,Priya Rao,51,Female,General Medicine,2024-03-03,2024-03-09,Gastritis,8189,Dr. Meera Rao,6,Credit Card,2.0
+P10882,Manoj Gupta,22,Male,General Medicine,2025-09-13,2025-09-17,Migraine,6686,Dr. Meera Rao,4,Debit Card,2.0
+P10883,Divya Verma,19,Female,Pediatrics,2024-11-23,2024-11-26,Hypertension,5316,Dr. Kavitha Naidu,3,Insurance,4.0
+P10884,Priya Mishra,21,Female,Dermatology,2024-04-23,2024-05-05,Viral Fever,13674,Dr. Anil Kumar,12,Credit Card,4.0
+P10885,Isha Singh,31,Female,Orthopedics,2025-08-16,2025-08-25,Pneumonia,25495,Dr. Neha Singh,9,UPI,1.0
+P10886,Ananya Mishra,1,Male,Orthopedics,2025-06-20,2025-06-23,Skin Allergy,7741,Dr. Rahul Verma,3,Cash,4.0
+P10887,Manoj Sharma,2,Male,Cardiology,2024-02-08,2024-02-18,Pneumonia,41524,Dr. Priya Sharma,10,Cash,1.0
+P10888,Isha Singh,33,Female,Neurology,2024-05-20,2024-05-26,Fracture,21800,Dr. Rahul Verma,6,Debit Card,4.0
+P10889,Kavya Reddy,2,Male,Oncology,2024-01-12,2024-01-13,Skin Allergy,10122,Dr. Arjun Patel,1,Insurance,2.0
+P10890,Rahul Nair,29,Female,Pediatrics,2024-07-16,2024-07-23,Gastritis,9711,Dr. Priya Sharma,7,Cash,2.0
+P10891,Sai Sharma,52,Male,Neurology,2024-03-13,2024-03-16,Arthritis,4917,Dr. Rahul Verma,3,UPI,3.0
+P10892,Kavya Patel,3,Male,Dermatology,2025-06-02,2025-06-06,Heart Disease,3205,Dr. Rahul Verma,4,UPI,2.0
+P10893,Divya Nair,55,Female,General Medicine,2025-01-16,2025-01-29,Anemia,16983,Dr. Arjun Patel,13,Debit Card,4.0
+P10894,Vikram Verma,56,Female,Cardiology,2025-12-16,2025-12-26,Skin Allergy,39962,Dr. Rahul Verma,10,UPI,5.0
+P10895,Divya Reddy,52,Female,Orthopedics,2025-07-01,2025-07-03,Anemia,9425,Dr. Kavitha Naidu,2,Insurance,5.0
+P10896,Rohan Reddy,56,Female,Neurology,2025-03-22,2025-04-03,Pneumonia,37705,Dr. Arjun Patel,12,Debit Card,3.0
+P10897,Neha Gupta,73,Male,General Medicine,2025-01-06,2025-01-15,Hypertension,15404,Dr. Neha Singh,9,Cash,3.0
+P10898,Rohan Rao,7,Male,Orthopedics,2024-02-09,2024-02-22,Arthritis,41764,Dr. S. Reddy,13,Credit Card,3.0
+P10899,Kavya Sharma,16,Male,Cardiology,2024-02-21,2024-03-03,Anemia,40826,Dr. Kavitha Naidu,11,Cash,4.0
+P10900,Meera Das,29,Female,Cardiology,2025-03-25,2025-03-30,Heart Disease,13857,Dr. Priya Sharma,5,UPI,3.0
+P10901,Sai Patel,62,Male,General Medicine,2024-01-04,2024-01-12,Gastritis,14287,Dr. Arjun Patel,8,Credit Card,3.0
+P10902,Ananya Verma,78,Female,Cardiology,2024-01-31,2024-02-08,Viral Fever,28492,Dr. Neha Singh,8,UPI,3.0
+P10903,Rohan Singh,82,Male,Oncology,2024-06-08,2024-06-19,Viral Fever,55883,Dr. S. Reddy,11,Insurance,2.0
+P10904,Meera Sharma,52,Female,Neurology,2025-10-07,2025-10-11,Diabetes,11278,Dr. Rahul Verma,4,Insurance,3.0
+P10905,Priya Sharma,37,Female,General Medicine,2024-12-01,2024-12-06,Hypertension,5256,Dr. Arjun Patel,5,Cash,4.0
+P10906,Aditya Patel,37,Female,Pediatrics,2025-06-01,2025-06-05,Hypertension,3110,Dr. Anil Kumar,4,Insurance,3.0
+P10907,Rohan Reddy,6,Male,Pediatrics,2024-10-27,2024-11-01,Skin Allergy,9417,Dr. Kavitha Naidu,5,UPI,5.0
+P10908,Vikram Rao,42,Female,Cardiology,2024-05-06,2024-05-09,Anemia,6851,Dr. Arjun Patel,3,Insurance,5.0
+P10909,Sanjay Mishra,46,Male,Oncology,2024-09-27,2024-09-28,Migraine,26416,Dr. Arjun Patel,1,Cash,3.0
+P10910,Sanjay Joshi,19,Male,ENT,2024-03-07,2024-03-21,Asthma,14975,Dr. Priya Sharma,14,Insurance,5.0
+P10911,Aditya Singh,69,Male,Cardiology,2025-07-16,2025-07-18,Asthma,1500,Dr. Arjun Patel,2,Insurance,1.0
+P10912,Rahul Verma,73,Male,Neurology,2024-05-13,2024-05-26,Fracture,43885,Dr. Arjun Patel,13,Credit Card,5.0
+P10913,Aarav Verma,27,Female,ENT,2024-10-01,2024-10-02,Asthma,3769,Dr. Anil Kumar,1,Insurance,2.0
+P10914,Sanjay Joshi,82,Male,General Medicine,2025-12-16,2025-12-27,Pneumonia,15526,Dr. Kavitha Naidu,11,Insurance,3.0
+P10915,Ananya Patel,10,Male,Neurology,2025-03-08,2025-03-13,Gastritis,18563,Dr. Kavitha Naidu,5,Insurance,2.0
+P10916,Kiran Rao,82,Female,Neurology,2024-11-30,2024-12-08,Anemia,17340,Dr. Neha Singh,8,Insurance,3.0
+P10917,Kiran Rao,69,Female,General Medicine,2025-01-31,2025-02-04,Diabetes,4272,Dr. Anil Kumar,4,Credit Card,2.0
+P10918,Isha Reddy,20,Female,Dermatology,2025-07-26,2025-08-02,Asthma,5496,Dr. Neha Singh,7,Insurance,4.0
+P10919,Rohan Rao,58,Female,General Medicine,2024-07-04,2024-07-11,Heart Disease,6085,Dr. Rahul Verma,7,Cash,1.0
+P10920,Arjun Mishra,28,Male,ENT,2025-04-09,2025-04-17,Skin Allergy,9796,Dr. S. Reddy,8,UPI,5.0
+P10921,Neha Mishra,72,Female,Pediatrics,2025-09-29,2025-10-05,Anemia,4576,Dr. Meera Rao,6,Cash,5.0
+P10922,Priya Kumar,15,Male,Orthopedics,2025-02-21,2025-03-01,Gastritis,17216,Dr. Arjun Patel,8,Credit Card,3.0
+P10923,Divya Naidu,22,Male,Pediatrics,2024-11-21,2024-12-03,Hypertension,17996,Dr. Neha Singh,12,Insurance,3.0
+P10924,Neha Singh,28,Male,Orthopedics,2024-04-15,2024-04-22,Heart Disease,16341,Dr. S. Reddy,7,Debit Card,4.0
+P10925,Isha Gupta,18,Female,Neurology,2024-06-30,2024-07-06,Gastritis,20975,Dr. Neha Singh,6,Cash,1.0
+P10926,Rohan Verma,30,Male,Cardiology,2025-11-21,2025-11-23,Skin Allergy,8740,Dr. Kavitha Naidu,2,Insurance,4.0
+P10927,Rahul Reddy,54,Female,Orthopedics,2025-01-30,2025-02-05,Skin Allergy,20303,Dr. Priya Sharma,6,UPI,2.0
+P10928,Aditya Joshi,57,Male,Dermatology,2024-08-07,2024-08-09,Migraine,3053,Dr. Rahul Verma,2,Credit Card,4.0
+P10929,Priya Yadav,50,Male,Cardiology,2024-11-01,2024-11-04,Hypertension,16549,Dr. Arjun Patel,3,Credit Card,2.0
+P10930,Kavya Das,17,Male,Pediatrics,2025-02-25,2025-03-11,Arthritis,22395,Dr. Anil Kumar,14,UPI,4.0
+P10931,Pooja Das,19,Male,General Medicine,2025-01-27,2025-01-29,Asthma,3394,Dr. Anil Kumar,2,Insurance,4.0
+P10932,Kiran Gupta,82,Male,General Medicine,2025-05-25,2025-06-01,Hypertension,10802,Dr. Anil Kumar,7,UPI,2.0
+P10933,Sai Singh,23,Female,Dermatology,2024-07-06,2024-07-18,Migraine,12198,Dr. Rahul Verma,12,Credit Card,4.0
+P10934,Neha Sharma,10,Female,Oncology,2025-04-18,2025-05-02,Heart Disease,67219,Dr. Anil Kumar,14,Cash,
+P10935,Neha Verma,41,Male,Dermatology,2024-11-19,2024-11-22,Pneumonia,2534,Dr. Neha Singh,3,Insurance,2.0
+P10936,Kiran Reddy,1,Female,Cardiology,2025-11-17,2025-11-20,Migraine,6679,Dr. Priya Sharma,3,Insurance,3.0
+P10937,Rahul Joshi,31,Male,Pediatrics,2024-04-25,2024-05-01,Arthritis,10544,Dr. Anil Kumar,6,Debit Card,5.0
+P10938,Rahul Naidu,77,Male,General Medicine,2024-04-18,2024-04-26,Arthritis,11015,Dr. S. Reddy,8,Insurance,1.0
+P10939,Neha Naidu,24,Male,Orthopedics,2024-12-03,2024-12-17,Migraine,36600,Dr. Arjun Patel,14,Insurance,5.0
+P10940,Ananya Rao,63,Male,Cardiology,2025-01-06,2025-01-09,Skin Allergy,7462,Dr. Neha Singh,3,UPI,5.0
+P10941,Sai Yadav,44,Male,Neurology,2025-05-19,2025-05-22,Viral Fever,4177,Dr. S. Reddy,3,UPI,3.0
+P10942,Neha Sharma,32,Female,Pediatrics,2024-10-21,2024-10-25,Diabetes,8592,Dr. Rahul Verma,4,Insurance,4.0
+P10943,Pooja Sharma,59,Male,Pediatrics,2025-10-29,2025-11-11,Migraine,20976,Dr. Arjun Patel,13,UPI,2.0
+P10944,Priya Sharma,53,Female,Neurology,2024-12-12,2024-12-13,Skin Allergy,1500,Dr. Arjun Patel,1,Cash,1.0
+P10945,Ananya Das,29,Male,Oncology,2024-04-04,2024-04-10,Diabetes,35659,Dr. Priya Sharma,6,UPI,3.0
+P10946,Vikram Yadav,20,Female,ENT,2024-03-28,2024-03-30,Hypertension,1500,Dr. Arjun Patel,2,Insurance,5.0
+P10947,Pooja Patel,82,Female,Neurology,2025-12-11,2025-12-14,Arthritis,3298,Dr. Arjun Patel,3,Insurance,2.0
+P10948,Vivaan Mishra,15,Male,ENT,2024-04-07,2024-04-20,Asthma,17315,Dr. Kavitha Naidu,13,Credit Card,4.0
+P10949,Divya Rao,86,Male,Cardiology,2025-11-22,2025-11-23,Migraine,1500,Dr. Rahul Verma,1,Insurance,4.0
+P10950,Aarav Das,42,Female,ENT,2024-07-21,2024-07-26,Asthma,5313,Dr. Meera Rao,5,Cash,4.0
+P10951,Vivaan Reddy,89,Female,ENT,2024-03-09,2024-03-22,Fracture,15669,Dr. Neha Singh,13,Insurance,2.0
+P10952,Divya Gupta,32,Female,Cardiology,2024-08-10,2024-08-19,Pneumonia,38158,Dr. Arjun Patel,9,UPI,2.0
+P10953,Aditya Das,51,Male,Dermatology,2025-03-24,2025-03-26,Fracture,2028,Dr. Rahul Verma,2,UPI,3.0
+P10954,Ananya Verma,55,Female,ENT,2024-11-08,2024-11-15,Arthritis,6385,Dr. Kavitha Naidu,7,UPI,5.0
+P10955,Pooja Patel,31,Male,ENT,2025-07-27,2025-08-10,Gastritis,17713,Dr. Meera Rao,14,Debit Card,5.0
+P10956,Kavya Joshi,20,Male,ENT,2025-03-22,2025-03-28,Skin Allergy,6385,Dr. Kavitha Naidu,6,UPI,3.0
+P10957,Diya Yadav,47,Female,General Medicine,2024-10-19,2024-10-27,Hypertension,14900,Dr. Anil Kumar,8,Cash,5.0
+P10958,Diya Naidu,60,Male,Cardiology,2025-04-08,2025-04-16,Migraine,28794,Dr. Neha Singh,8,Cash,3.0
+P10959,Pooja Das,24,Female,Oncology,2025-12-10,2025-12-20,Migraine,34354,Dr. Rahul Verma,10,UPI,2.0
+P10960,Pooja Nair,69,Female,General Medicine,2024-10-27,2024-10-30,Viral Fever,4900,Dr. Rahul Verma,3,Debit Card,1.0
+P10961,Rahul Patel,57,Male,General Medicine,2024-04-22,2024-05-04,Viral Fever,20611,Dr. Priya Sharma,12,Debit Card,4.0
+P10962,Ananya Joshi,15,Female,Pediatrics,2024-10-25,2024-11-08,Skin Allergy,25930,Dr. Rahul Verma,14,UPI,4.0
+P10963,Kavya Rao,84,Male,General Medicine,2025-09-05,2025-09-07,Heart Disease,6388,Dr. Anil Kumar,2,Insurance,5.0
+P10964,Kiran Nair,4,Male,Neurology,2024-06-07,2024-06-19,Anemia,33831,Dr. Neha Singh,12,Debit Card,4.0
+P10965,Arjun Kumar,59,Male,Dermatology,2025-11-23,2025-12-05,Fracture,13277,Dr. Kavitha Naidu,12,Debit Card,1.0
+P10966,Manoj Rao,40,Female,Cardiology,2025-03-05,2025-03-16,Hypertension,35961,Dr. Meera Rao,11,Credit Card,3.0
+P10967,Manoj Verma,59,Male,Dermatology,2025-03-15,2025-03-21,Skin Allergy,6314,Dr. Arjun Patel,6,UPI,4.0
+P10968,Vikram Gupta,69,Male,Oncology,2024-08-19,2024-08-26,Heart Disease,26089,Dr. Arjun Patel,7,Credit Card,3.0
+P10969,Pooja Joshi,62,Female,Pediatrics,2025-11-02,2025-11-14,Migraine,17756,Dr. Anil Kumar,12,Debit Card,3.0
+P10970,Sai Yadav,58,Female,General Medicine,2024-01-27,2024-01-30,Hypertension,2874,Dr. Anil Kumar,3,Insurance,5.0
+P10971,Rahul Kumar,75,Female,Orthopedics,2024-08-06,2024-08-18,Gastritis,37122,Dr. S. Reddy,12,UPI,4.0
+P10972,Aarav Rao,63,Female,ENT,2024-11-01,2024-11-14,Arthritis,16945,Dr. Anil Kumar,13,Insurance,4.0
+P10973,Aarav Singh,73,Male,Dermatology,2024-12-14,2024-12-24,Skin Allergy,10387,Dr. Rahul Verma,10,Insurance,3.0
+P10974,Vikram Gupta,36,Female,Orthopedics,2024-12-12,2024-12-17,Viral Fever,8706,Dr. Rahul Verma,5,Insurance,2.0
+P10975,Aarav Gupta,19,Female,Neurology,2024-04-17,2024-04-25,Anemia,24203,Dr. Rahul Verma,8,Cash,3.0
+P10976,Sai Joshi,21,Female,Neurology,2024-06-13,2024-06-14,Anemia,1500,Dr. Anil Kumar,1,Insurance,5.0
+P10977,Vivaan Nair,55,Female,Pediatrics,2024-03-10,2024-03-24,Hypertension,24348,Dr. Neha Singh,14,Debit Card,4.0
+P10978,Diya Reddy,48,Male,ENT,2025-02-21,2025-02-26,Diabetes,7979,Dr. Neha Singh,5,Cash,4.0
+P10979,Neha Naidu,7,Male,Dermatology,2024-09-13,2024-09-14,Anemia,2478,Dr. Rahul Verma,1,UPI,1.0
+P10980,Manoj Das,19,Female,Neurology,2025-02-17,2025-03-01,Fracture,35016,Dr. Anil Kumar,12,Insurance,5.0
+P10981,Manoj Naidu,87,Male,Oncology,2025-03-06,2025-03-16,Fracture,30823,Dr. Meera Rao,10,Insurance,2.0
+P10982,Aarav Kumar,65,Male,Orthopedics,2025-05-27,2025-06-05,Anemia,18273,Dr. Kavitha Naidu,9,UPI,5.0
+P10983,Isha Singh,68,Male,Oncology,2025-02-03,2025-02-04,Fracture,14951,Dr. Kavitha Naidu,1,UPI,3.0
+P10984,Manoj Naidu,18,Female,Orthopedics,2025-04-18,2025-04-29,Diabetes,29227,Dr. Priya Sharma,11,Cash,5.0
+P10985,Pooja Sharma,6,Female,General Medicine,2025-03-04,2025-03-13,Hypertension,11128,Dr. Arjun Patel,9,UPI,5.0
+P10986,Ananya Nair,26,Female,ENT,2025-04-21,2025-05-03,Asthma,17159,Dr. Neha Singh,12,UPI,4.0
+P10987,Aditya Rao,77,Female,Orthopedics,2025-03-26,2025-04-07,Arthritis,38559,Dr. Rahul Verma,12,Credit Card,5.0
+P10988,Manoj Verma,46,Female,Dermatology,2024-08-18,2024-08-21,Gastritis,3034,Dr. Meera Rao,3,Debit Card,4.0
+P10989,Manoj Gupta,70,Female,ENT,2024-06-28,2024-07-01,Skin Allergy,3107,Dr. Rahul Verma,3,UPI,5.0
+P10990,Pooja Mishra,44,Male,Neurology,2025-07-28,2025-08-10,Arthritis,41008,Dr. Anil Kumar,13,Credit Card,1.0
+P10991,Vikram Kumar,44,Female,Cardiology,2024-09-07,2024-09-15,Anemia,29944,Dr. Rahul Verma,8,Cash,1.0
+P10992,Priya Kumar,54,Male,General Medicine,2025-02-04,2025-02-11,Fracture,12936,Dr. Anil Kumar,7,Insurance,3.0
+P10993,Sai Rao,86,Male,Orthopedics,2024-05-23,2024-05-28,Pneumonia,15656,Dr. Anil Kumar,5,Insurance,5.0
+P10994,Kavya Naidu,39,Male,Cardiology,2024-11-10,2024-11-19,Migraine,36059,Dr. Rahul Verma,9,UPI,4.0
+P10995,Pooja Rao,54,Female,Pediatrics,2025-01-21,2025-02-01,Hypertension,20219,Dr. Rahul Verma,11,UPI,3.0
+P10996,Kavya Nair,82,Female,Dermatology,2025-04-01,2025-04-02,Heart Disease,1500,Dr. Neha Singh,1,Insurance,3.0
+P10997,Vikram Patel,34,Female,Orthopedics,2025-01-19,2025-01-27,Fracture,25359,Dr. Rahul Verma,8,Credit Card,4.0
+P10998,Rahul Kumar,75,Female,Orthopedics,2024-09-20,2024-10-04,Asthma,38045,Dr. Neha Singh,14,Insurance,5.0
+P10999,Meera Naidu,48,Female,Oncology,2025-12-03,2025-12-07,Pneumonia,2387,Dr. Arjun Patel,4,Insurance,5.0
+P11000,Vikram Nair,79,Male,General Medicine,2025-01-09,2025-01-13,Hypertension,1500,Dr. S. Reddy,4,Debit Card,1.0
